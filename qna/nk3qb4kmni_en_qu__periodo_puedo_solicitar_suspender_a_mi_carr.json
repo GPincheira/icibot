@@ -1,0 +1,35 @@
+{
+  "id": "nk3qb4kmni_en_qu__periodo_puedo_solicitar_suspender_a_mi_carr",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "regular"
+    ],
+    "enabled": true,
+    "answers": {
+      "es": [
+        "En el segundo semestre puedes solicitar suspender tu carrera entre el 7 al 31 de Agosto vía el Portal del Alumno, en la sección \"Servicios\" y luego \"Solicitudes DARA\", o entrando al siguiente link: http://www.portalalumnos.ucm.cl/v2/#/solicitudes-dara"
+      ]
+    },
+    "questions": {
+      "es": [
+        "¿En qué periodo puedo solicitar suspender a mi carrera?",
+        "¿Cual es la fecha limite para suspender la carrera?",
+        "Necesito suspender la carrera",
+        "¿Puedo suspender la carrera?",
+        "Fecha maxima para suspender la carrera",
+        "Informacion sobre el proceso de suspension de la carrera",
+        "Quiero suspender mi carrera",
+        "Información sobre el proceso de suspensión de la carrera",
+        "¿Cómo suspendo la carrera?",
+        "Fecha máxima para suspender la carrera",
+        "¿Como puedo suspender la carrera?",
+        "¿Cuál es la fecha límite para suspender la carrera?",
+        "¿En que periodo puedo solicitar la suspensión de mi carrera?",
+        "Plazo máximo para suspender la carrera"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

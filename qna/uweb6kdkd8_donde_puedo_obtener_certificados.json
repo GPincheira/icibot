@@ -1,0 +1,40 @@
+{
+  "id": "uweb6kdkd8_donde_puedo_obtener_certificados",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "es": [
+        "En el portal del alumno existe una sección donde puedes obtener diferentes certificados, como de alumno regular, de matrícula, concentración de notas, entre otros, en el siguiente link: www.portalalumnos.ucm.cl . Si necesitas algún certificado que allí no aparece, debes solicitarlo directamente al departamento que corresponda."
+      ]
+    },
+    "questions": {
+      "es": [
+        "¿Dónde puedo obtener certificados?",
+        "¿Cómo solicito certificados?",
+        "Obtener certificado de alumno regular",
+        "¿Cómo puedo pedir un certificado?",
+        "¿Cómo solicitar un certificado de alumno regular?",
+        "¿Dónde puedo solicitar un certificado de concentración de notas?",
+        "¿En qué sitio puedo descargar mis certificados?",
+        "¿Cómo puedo encontrar certificados?",
+        "¿Dónde puedo pedir certificados?",
+        "Solicitar algún certificado",
+        "¿Donde puedo obtener certificados?",
+        "Solicitar algun certificado",
+        "¿Como solicito certificados?",
+        "¿Como puedo pedir un certificado?",
+        "¿Como solicitar un certificado de alumno regular?",
+        "¿Donde puedo solicitar un certificado de concentracion de notas?",
+        "¿En que sitio puedo descargar mis certificados?",
+        "¿Es posible obtener un certificado mediante el portal del alumno?",
+        "¿Es posible obtener certificados en la pagina de la universidad?"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

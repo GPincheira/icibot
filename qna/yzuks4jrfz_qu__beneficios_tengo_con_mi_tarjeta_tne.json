@@ -1,0 +1,35 @@
+{
+  "id": "yzuks4jrfz_qu__beneficios_tengo_con_mi_tarjeta_tne",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "es": [
+        "La Tarjeta Nacional Estudiantil es un beneficio administrado por JUNAEB que acredita la calidad de estudiante regular de enseñanza Básica, Media o Superior y que hace efectiva la rebaja en el pago de la tarifa de los servicios de locomoción colectiva cuando te desplazas con fines relacionados a tus estudios."
+      ]
+    },
+    "questions": {
+      "es": [
+        "¿Qué beneficios tengo con mi tarjeta TNE?",
+        "¿Para que sirve la TNE?",
+        "¿Que uso le puedo dar a la TNE?",
+        "¿Para que me sirve mi pase escolar?",
+        "¿En qué condiciones puedo usar mi pase escolar?",
+        "¿En qué condiciones puedo usar la TNE?",
+        "¿Cuándo puedo usar la TNE?",
+        "¿Cuándo puedo usar la tarjeta TNE?",
+        "¿Cuándo puedo usar el pase escolar?",
+        "¿Qué viajes me cubre la TNE?",
+        "¿Que beneficios tengo con mi tarjeta TNE?",
+        "¿Cuando puedo usar la TNE?",
+        "¿En que condiciones puedo usar mi pase escolar?",
+        "¿Que viajes me cubre la TNE?"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

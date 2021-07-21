@@ -1,0 +1,28 @@
+{
+  "name": "__qna__g6inlfbkgi_existen_becas_de_prestaci_n_laboral",
+  "contexts": [
+    "regular"
+  ],
+  "utterances": {
+    "es": [
+      "¿Existen becas de prestación laboral?",
+      "¿Puedo trabajar dentro de la universidad?",
+      "¿Puedo optar a un trabajo en la UCM?",
+      "Quisiera saber sobre las becas de prestación laboral",
+      "¿Que becas laborales existen?",
+      "Becas laborales en la universidad",
+      "¿Puedo tener una beca laboral en la universidad?",
+      "¿Qué becas laborales existen?",
+      "¿Qué becas de trabajo existen en la UCM?",
+      "Obtener una beca laboral en la universidad",
+      "Deseo saber sobre las becas laborales",
+      "¿Donde busco sobre las becas laborales?",
+      "¿Existen becas de prestacion laboral?",
+      "Quisiera saber sobre las becas de prestacion laboral",
+      "¿Dónde busco sobre las becas laborales?",
+      "Información sobre beca laboral",
+      "Informacion sobre las becas laborales"
+    ]
+  },
+  "slots": []
+}

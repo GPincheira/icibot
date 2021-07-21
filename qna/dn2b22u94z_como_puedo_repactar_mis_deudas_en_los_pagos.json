@@ -1,0 +1,36 @@
+{
+  "id": "dn2b22u94z_como_puedo_repactar_mis_deudas_en_los_pagos",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "es": [
+        "Puedes solicitar la repactación de deudas en el Portal del Alumno, ingresando una solicitud en la sección servicios, o en el siguiente link: http://www.portalalumnos.ucm.cl/portalal/repactacion/repacta1.php . El plazo para realizarlo entre el 26 de Julio y 7 de Agosto, o entre el 6 y 17 de Diciembre."
+      ]
+    },
+    "questions": {
+      "es": [
+        "¿Cómo puedo repactar mis deudas en los pagos?",
+        "Quiero repactar mis pagos",
+        "Repactar pagos de arancel",
+        "¿Cómo puedo repactar mi deuda en la universidad?",
+        "¿Es posible repactar una deuda?",
+        "Quisiera repactar mi deuda con la universidad",
+        "Repactar la deuda en el pago de aranceles",
+        "¿Cómo repacto una deuda de mis cuotas?",
+        "¿Cómo repacto deuda de cuotas de arancel?",
+        "¿Puedo repactar una deuda con mis cuotas?",
+        "¿Como puedo repactar mis deudas en los pagos?",
+        "Deseo saber sobre la repactacion de deudas",
+        "Quiero repactar una deuda",
+        "¿Cómo repacto la deuda de mis cuotas?",
+        "Quiero saber sobre la repactación de cuotas"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

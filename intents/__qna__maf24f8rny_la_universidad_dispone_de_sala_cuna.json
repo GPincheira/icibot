@@ -1,0 +1,23 @@
+{
+  "name": "__qna__maf24f8rny_la_universidad_dispone_de_sala_cuna",
+  "contexts": [
+    "global"
+  ],
+  "utterances": {
+    "es": [
+      "¿La universidad dispone de sala cuna?",
+      "¿Existe sala cuna en la universidad?",
+      "¿Como puedo llevar a mi hijo a la sala cuna?",
+      "Información sobre la sala cuna de la universidad",
+      "¿Donde postulo a la sala cuna de la universidad?",
+      "Inscribirme en la sala cuna de la universidad",
+      "Inscribir a mi hijo a la sala cuna de la ucm",
+      "¿Como puedo inscribir a mi hijo al servicio de sala cuna de la universidad?",
+      "¿Cómo puedo inscribir a mi hijo al servicio de sala cuna de la universidad?",
+      "¿Dónde postulo a la sala cuna de la universidad?",
+      "Informacion sobre la sala cuna de la universidad",
+      "¿Cómo puedo llevar a mi hijo a la sala cuna?"
+    ]
+  },
+  "slots": []
+}

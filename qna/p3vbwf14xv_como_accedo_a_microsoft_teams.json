@@ -1,0 +1,42 @@
+{
+  "id": "p3vbwf14xv_como_accedo_a_microsoft_teams",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "es": [
+        "Microsoft Teams es una plataforma a la que accedió la universidad para que sus alumnos realicen sus clases en el contexto de la pandemia. Puedes descargar la aplicación desde tu navegar, o acceder directamente en la web con los datos de ingreso que utilizas en la universidad. Allí debes seleccionar algún curso y conectarte en los horarios establecidos de las clases, así como también puedes interactuar con tus profesores o compañeros."
+      ]
+    },
+    "questions": {
+      "es": [
+        "¿Cómo accedo a Microsoft Teams?",
+        "¿Como utilizo Teams?",
+        "¿Para que sirve Teams?",
+        "¿Como entro a Teams?",
+        "Necesito información sobre Microsoft Teams",
+        "Necesito información sobre Teams",
+        "Quiero aprender a usar Teams",
+        "¿Para que puedo usar Teams?",
+        "¿Que es Microsoft Teams?",
+        "¿Qué uso se le da a Microsoft Teams?",
+        "¿En qué medio se realizan las clases no presenciales?",
+        "¿En que medio se realizan las clases no presenciales?",
+        "¿En que medio digital se realizan las clases virtuales?",
+        "Clases virtuales",
+        "¿Con qué programa se hacen las clases no presenciales?",
+        "¿Como accedo a Microsoft Teams?",
+        "¿Para qué sirve Teams?",
+        "¿Cómo entro a Teams?",
+        "Necesito informacion sobre Teams",
+        "¿En qué programa se hacen las clases online?",
+        "¿Donde se realizan las clases online?"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

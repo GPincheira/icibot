@@ -1,0 +1,34 @@
+{
+  "id": "cfgioyzh2f_c_mo_puedo_convalidar_ramos",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "regular"
+    ],
+    "enabled": true,
+    "answers": {
+      "es": [
+        "El proceso para convalidar ramos debes realizarlo directamente en el DARA al inicio de cada año, o en el Portal del Alumno, en la sección \"Servicios\" y luego \"Solicitudes DARA\", o entrando al siguiente link: http://www.portalalumnos.ucm.cl/v2/#/solicitudes-dara"
+      ]
+    },
+    "questions": {
+      "es": [
+        "¿Cómo puedo convalidar ramos?",
+        "¿Cuándo puedo convalidar ramos?",
+        "Necesito información sobre el proceso de convalidación de ramos",
+        "¿Qué tengo que hacer para convalidar ramos?",
+        "¿De qué manera convalido mis ramos?",
+        "Quiero convalidar algunos ramos",
+        "Información sobre la convalidación de ramos",
+        "¿Como puedo convalidar ramos?",
+        "¿Cuando puedo convalidar ramos?",
+        "Necesito informacion sobre el proceso de convalidacion de ramos",
+        "¿Que tengo que hacer para convalidar ramos?",
+        "¿De que manera convalido mis ramos?",
+        "Informacion sobre la convalidacion de ramos"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

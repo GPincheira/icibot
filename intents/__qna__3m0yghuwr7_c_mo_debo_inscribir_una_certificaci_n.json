@@ -1,0 +1,30 @@
+{
+  "name": "__qna__3m0yghuwr7_c_mo_debo_inscribir_una_certificaci_n",
+  "contexts": [
+    "regular"
+  ],
+  "utterances": {
+    "es": [
+      "¿Cómo debo inscribir una certificación?",
+      "Proceso de inscripción de certificaciones",
+      "¿Dónde tomo certificaciones?",
+      "¿Cómo inscribo una certificación?",
+      "¿Cuándo debo inscribir certificaciones?",
+      "¿Dónde inscribo una certificación?",
+      "¿Dónde se toman las certificaciones?",
+      "¿En que sitio se inscriben las certificaciones?",
+      "¿Cómo puedo tomar una certificación?",
+      "¿Qué debo hacer para rendir una certificación?",
+      "Información sobre el proceso de inscripción de certificaciones",
+      "Me gustaría saber como inscribir una certificacion",
+      "¿Como debo inscribir una certificacion?",
+      "¿Donde tomo certificaciones?",
+      "¿Cuando debo inscribir certificaciones?",
+      "¿Donde inscribo una certificación?",
+      "¿Donde se toman las certificaciones?",
+      "Informacion sobre el proceso de inscripcion de certificaciones",
+      "Me gustaria saber como inscribir una certificación"
+    ]
+  },
+  "slots": []
+}

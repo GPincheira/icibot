@@ -1,0 +1,29 @@
+{
+  "name": "__qna__ynr18znnq6_d_nde_se_realizan_las_diferentes_votaciones",
+  "contexts": [
+    "regular"
+  ],
+  "utterances": {
+    "es": [
+      "¿Dónde se realizan las diferentes votaciones?",
+      "¿Cómo se realizan las votaciones?",
+      "¿Dónde puedo votar?",
+      "¿Cómo participo en una votación?",
+      "Realizar votación sobre el centro de alumnos",
+      "¿Cómo participo de una votación?",
+      "¿Dónde puedo realizar mi voto?",
+      "Sufragar en una votación",
+      "¿Cómo participo en una elección?",
+      "¿Cómo entrego mi voto en un plebiscito?",
+      "Deseo realizar una votación",
+      "Quiero saber como realizar una votación",
+      "Deseo participar en una votación",
+      "¿Como se realizan las votaciones?",
+      "¿Donde puedo votar?",
+      "¿Donde se realizan las diferentes votaciones?",
+      "¿Como participo en una votacion?",
+      "¿Donde puedo realizar mi voto?"
+    ]
+  },
+  "slots": []
+}

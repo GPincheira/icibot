@@ -1,0 +1,39 @@
+{
+  "id": "0kiwy9kugn_para_que_es_mi_correo_institucional",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "es": [
+        "Todos los estudiantes de la universidad disponen de un correo institucional, que debería ser el medio que deberías utilizar si quieres contactarte con alguna otra persona que forme parte de la universidad. Puedes acceder a él en el siguiente link, o desde gmail, http://alu.ucm.cl/ . \nEste por lo general tiene un formato nombre.apellido@alu.ucm.cl, y su contraseña es la misma que usas en otras plataformas de la universidad."
+      ]
+    },
+    "questions": {
+      "es": [
+        "¿Para que es mi correo institucional?",
+        "¿Qué es el correo institucional?",
+        "Uso del correo institucional",
+        "Uso de mi correo institucional",
+        "¿Cuál es mi correo de la universidad?",
+        "¿Cuál es mi correo institucional?",
+        "¿Cómo utilizo mi correo institucional?",
+        "¿Tengo algún correo institucional?",
+        "¿Cómo puedo utilizar el correo institucional?",
+        "¿Dónde veo mi correo institucional?",
+        "¿Para qué es mi correo institucional?",
+        "Quisiera conocer sobre el correo institucional",
+        "¿Como puedo acceder a mi correo institucional?",
+        "¿Cómo puedo acceder a mi correo institucional?",
+        "¿Que es el correo institucional?",
+        "¿Cual es mi correo institucional?",
+        "¿Como utilizo mi correo institucional?",
+        "¿Donde veo mi correo institucional?"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

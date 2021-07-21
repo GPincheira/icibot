@@ -1,0 +1,27 @@
+{
+  "name": "__qna__3xsbydmxn0_cu_ntos_optativos_debo_rendir_en_la_carrera",
+  "contexts": [
+    "regular"
+  ],
+  "utterances": {
+    "es": [
+      "¿Cuántos optativos debo rendir en la carrera?",
+      "¿Cuál es el mínimo de optativos que debo tomar?",
+      "¿Cuántos optativos debo aprobar?",
+      "Cantidad de optativos que debo aprobar",
+      "Cantidad de optativos que debo rendir",
+      "Información sobre la cantidad de optativos",
+      "¿Qué cantidad de optativos debo realizar?",
+      "¿Cuál es el número de optativos que tengo que aprobar?",
+      "¿Cual es el numero de electivos que tengo que aprobar?",
+      "Información sobre la cantidad de electivos",
+      "Quiero conocer sobre la cantidad de optativos",
+      "¿Cuantos optativos debo rendir en la carrera?",
+      "¿Cual es el minimo de optativos que debo tomar?",
+      "¿Cuantos optativos debo aprobar?",
+      "Informacion sobre la cantidad de optativos",
+      "¿Quw cantidad de optativos debo realizar?"
+    ]
+  },
+  "slots": []
+}

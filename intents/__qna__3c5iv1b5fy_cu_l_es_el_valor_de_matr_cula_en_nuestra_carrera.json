@@ -1,0 +1,29 @@
+{
+  "name": "__qna__3c5iv1b5fy_cu_l_es_el_valor_de_matr_cula_en_nuestra_carrera",
+  "contexts": [
+    "regular"
+  ],
+  "utterances": {
+    "es": [
+      "¿Cuál es el valor de matrícula en nuestra carrera?",
+      "¿Cuál es el precio de la matrícula?",
+      "¿Cuánto tengo que pagar por temas de matricula?",
+      "¿Cuál es el precio para matricularme?",
+      "¿Cuánto es el costo por matricularme?",
+      "Necesito saber el precio de la matricula",
+      "¿Cuánto cuesta la matrícula?",
+      "¿Cuánto es el pago por matrícula?",
+      "¿Cuánto tengo que pagar para matricularme?",
+      "Precio de la matrícula",
+      "¿Cual es el precio de la matrícula?",
+      "Valor de la matricula",
+      "Me gustaría saber el valor de la matricula",
+      "Me gustaria conocer el valor de la matrícula",
+      "¿Cual es el valor de matricula en nuestra carrera?",
+      "¿Cuanto es el costo por matricularme?",
+      "¿Cuanto cuesta la matricula?",
+      "Información sobre la matrícula y el pago"
+    ]
+  },
+  "slots": []
+}

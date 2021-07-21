@@ -1,0 +1,41 @@
+{
+  "id": "a2dfu19e2h_que_relaciones_internacionales_tiene_la_ucm",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "es": [
+        "La UCM tiene una amplia cantidad de relaciones internacionales, puedes conocer más sobre ellas en el siguiente link: https://portal.ucm.cl/oficina-relaciones-internacionales.\nAllí podrás encontrar información sobre universidades para movilidad estudiantil, postulación a becas, etc."
+      ]
+    },
+    "questions": {
+      "es": [
+        "¿Qué relaciones internacionales tiene la UCM?",
+        "Información sobre las relaciones internacionales de la universidad",
+        "¿Dónde puedo ver sobre la movilidad estudiantil?",
+        "Relaciones internacionales de la UCM",
+        "¿Con qué universidades internacionales tiene convenio la universidad?",
+        "Relaciones con universidades del extranjero",
+        "Convenios internacionales de la universidad",
+        "¿Dónde puedo ver información sobre las relaciones internacionales?",
+        "Necesito saber sobre las relaciones internacionales de la UCM",
+        "Obtener información sobre la movilidad con relaciones internacionales",
+        "¿Que relaciones internacionales tiene la UCM?",
+        "¿Donde puedo saber sobre la movilidad estudiantil?",
+        "¿Dónde puedo informarme sobre la movilidad estudiantil?",
+        "Informacion sobre las relaciones internacionales de la universidad",
+        "¿Con que universidades internacionales tiene convenio la universidad?",
+        "¿Dónde puedo ver informacion sobre las relaciones internacionales?",
+        "¿En qué semestre puedo postular a la beca por la movilidad internacional?",
+        "¿En que semestre puedo postular a la beca por la movilidad internacional?",
+        "¿Cuando puedo postular a la movilidad estudiantil?",
+        "¿Cuándo puedo postular a la movilidad estudiantil?"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

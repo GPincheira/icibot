@@ -1,0 +1,27 @@
+{
+  "name": "__qna__045dovm14c_la_carrera_tiene_centro_de_alumnos",
+  "contexts": [
+    "global"
+  ],
+  "utterances": {
+    "es": [
+      "¿La carrera tiene centro de alumnos?",
+      "¿Quiénes componen nuestro centro de alumnos?",
+      "¿Cuál es el centro de alumnos de la carrera?",
+      "¿Cómo contacto al centro de alumnos?",
+      "Composición del centro de alumnos de ingeniería civil informática",
+      "¿Qué compañeros están en el centro de alumnos?",
+      "¿Es posible contactar al centro de alumnos?",
+      "¿Qué es el centro de alumnos?",
+      "¿Que hace el centro de alumnos?",
+      "Centro de alumnos de ICI",
+      "¿Cuál es el centro de alumnos de ingeniería civil informática?",
+      "¿Cual es el centro de alumnos de la carrera?",
+      "¿Que es el centro de alumnos?",
+      "¿Quienes componen nuestro centro de alumnos?",
+      "¿Como contacto al centro de alumnos?",
+      "¿Cual es el centro de alumnos de ingeniería civil informática?"
+    ]
+  },
+  "slots": []
+}

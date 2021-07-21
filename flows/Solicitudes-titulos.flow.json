@@ -1,0 +1,25 @@
+{
+  "version": "0.0.1",
+  "catchAll": {},
+  "startNode": "node-6fa33",
+  "description": "",
+  "nodes": [
+    {
+      "id": "94df9c82aa",
+      "name": "node-6fa33",
+      "next": [
+        {
+          "condition": "true",
+          "node": "END"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-HXMH1v",
+        "say #!builtin_text-q4lwIx",
+        "say #!builtin_text-7NVRe2"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    }
+  ]
+}

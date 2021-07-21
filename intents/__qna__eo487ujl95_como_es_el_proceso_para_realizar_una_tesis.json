@@ -1,0 +1,24 @@
+{
+  "name": "__qna__eo487ujl95_como_es_el_proceso_para_realizar_una_tesis",
+  "contexts": [
+    "regular"
+  ],
+  "utterances": {
+    "es": [
+      "¿Cómo es el proceso para realizar una tesis?",
+      "¿Qué actividades componen la evaluación de la tesis?",
+      "¿De qué trata el proceso de realización de la tesis?",
+      "¿De que manera se evalúa una tesis?",
+      "¿Cómo se realiza la tesis?",
+      "¿Que actividades componen la tesis?",
+      "¿Que debo hacer en el proceso de realización de la tesis?",
+      "¿De qué trata la realización de mi tesis?",
+      "Pasos a seguir durante la tesis",
+      "Actividades a realizar en la tesis",
+      "¿Como es el proceso para realizar una tesis?",
+      "¿De que trata el proceso de realizacion de la tesis?",
+      "¿Que actividades componen la evaluacion de la tésis?"
+    ]
+  },
+  "slots": []
+}

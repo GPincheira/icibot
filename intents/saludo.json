@@ -1,0 +1,17 @@
+{
+  "name": "saludo",
+  "utterances": {
+    "es": [
+      "Hola",
+      "Buenas tardes",
+      "Buenos días",
+      "Holaa",
+      "Hola, que tal?",
+      "Saludos"
+    ]
+  },
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

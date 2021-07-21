@@ -1,0 +1,27 @@
+{
+  "name": "__qna__kw1kxmm55f_c_mo_se_ponderan_las_notas",
+  "contexts": [
+    "global"
+  ],
+  "utterances": {
+    "es": [
+      "¿Cómo se ponderan las notas?",
+      "¿De qué manera se ponderan las notas?",
+      "¿Cómo está ponderado el semestre?",
+      "¿Qué importancia tiene cada nota en las ponderaciones?",
+      "¿De que manera se calcula un promedio?",
+      "¿Cómo se pondera el promedio de un ramo?",
+      "¿Cómo calculo la nota final de una asignatura?",
+      "¿De que manera se ponderan las notas para aprobar un ramo?",
+      "¿Cómo se realiza la ponderación de promedios?",
+      "¿Cómo pondero mi promedio?",
+      "Deseo aprender la ponderación de notas",
+      "¿Como se ponderan las notas?",
+      "¿Como esta ponderado el semestre?",
+      "¿De qué manera se calcula un promedio?",
+      "¿Que importancia tiene cada nota en las ponderaciones?",
+      "¿Como se realiza la ponderacion de promedios?"
+    ]
+  },
+  "slots": []
+}

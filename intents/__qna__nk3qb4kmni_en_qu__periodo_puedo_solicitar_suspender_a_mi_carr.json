@@ -1,0 +1,25 @@
+{
+  "name": "__qna__nk3qb4kmni_en_qu__periodo_puedo_solicitar_suspender_a_mi_carr",
+  "contexts": [
+    "regular"
+  ],
+  "utterances": {
+    "es": [
+      "¿En qué periodo puedo solicitar suspender a mi carrera?",
+      "¿Cual es la fecha limite para suspender la carrera?",
+      "Necesito suspender la carrera",
+      "¿Puedo suspender la carrera?",
+      "Fecha maxima para suspender la carrera",
+      "Informacion sobre el proceso de suspension de la carrera",
+      "Quiero suspender mi carrera",
+      "Información sobre el proceso de suspensión de la carrera",
+      "¿Cómo suspendo la carrera?",
+      "Fecha máxima para suspender la carrera",
+      "¿Como puedo suspender la carrera?",
+      "¿Cuál es la fecha límite para suspender la carrera?",
+      "¿En que periodo puedo solicitar la suspensión de mi carrera?",
+      "Plazo máximo para suspender la carrera"
+    ]
+  },
+  "slots": []
+}

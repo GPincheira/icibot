@@ -1,0 +1,38 @@
+{
+  "id": "onq3emhyva_en_qu__consiste_el_proceso_de_acreditaci_n",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "es": [
+        "La acreditación es un proceso voluntario al que se someten las instituciones de Educación Superior autónomas, así como las carreras de pregrado, programas de posgrado y especialidades del área de la salud que imparten, para contar con una certificación de calidad de sus procesos internos y sus resultados. En este proceso, es muy importante la participación de los alumnos, por lo que es importante que te inscribas para participar en ella cuando se solicita."
+      ]
+    },
+    "questions": {
+      "es": [
+        "¿En qué consiste el proceso de acreditación?",
+        "¿Qué es la acreditación?",
+        "¿Cómo es el proceso de acreditación?",
+        "¿De que manera se acredita la universidad?",
+        "¿De que manera se acredita la carrera?",
+        "¿Cómo ser parte del proceso de acreditación?",
+        "¿De qué trata el proceso de acreditación?",
+        "¿Cómo obtiene la acreditación la carrera?",
+        "¿Cómo obtiene acreditación la universidad?",
+        "¿Cómo es la acreditación de la carrera?",
+        "Necesito saber sobre el proceso de acreditacion",
+        "¿Que es la acreditacion?",
+        "¿Como es el proceso de acreditacion?",
+        "¿En que consiste el proceso de acreditacion?",
+        "¿Como ser parte del proceso de acreditacióo?",
+        "¿Como es la acreditacion de la carrera?",
+        "Información sobre el proceso de acreditación"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7kgg07rrno_qu__puedo_hacer_en_la_biblioteca",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "es": [
+        "La biblioteca es un espacio físico en que ofrece una amplia colección bibliográfica que puedes utilizar allí o solicitar un préstamo, además de disponer de computadores y espacios de estudio. También dispone de contenido en formato electrónico. Puedes obtener más información en el siguiente link: sibib.ucm.cl"
+      ]
+    },
+    "questions": {
+      "es": [
+        "¿Qué puedo hacer en la biblioteca?",
+        "¿Qué uso le puedo dar en la biblioteca?",
+        "Información sobre la biblioteca de la UCM",
+        "¿Qué puedo hacer como estudiante en la biblioteca?",
+        "¿Qué actividades puedo hacer en la biblioteca?",
+        "¿Puedo ir a estudiar a la biblioteca?",
+        "¿La biblioteca puede ser usada por los estudiantes?",
+        "¿Quiénes pueden acceder a la biblioteca?",
+        "¿Qué puedo encontrar en la biblioteca?",
+        "¿Qué puedo recibir en la biblioteca?",
+        "Horarios de la biblioteca",
+        "¿Que puedo hacer en la biblioteca?",
+        "Informacion sobre la biblioteca de la universidad",
+        "¿Que uso le puedo dar en la biblioteca?",
+        "¿Quienes pueden acceder a la biblioteca?",
+        "¿Que actividades puedo hacer en la biblioteca?",
+        "¿Que puedo encontrar en la biblioteca?",
+        "¿Cuál es el horario de funcionamiento de la biblioteca?",
+        "¿Hasta que hora funciona la biblioteca?",
+        "¿Qué servicios ofrece la biblioteca?"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

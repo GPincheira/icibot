@@ -1,0 +1,27 @@
+{
+  "name": "__qna__lnry88sy9v_cuales_son_las_sedes_de_la_universidad",
+  "contexts": [
+    "global"
+  ],
+  "utterances": {
+    "es": [
+      "¿Dónde puedo obtener información sobre la carrera?",
+      "¿Dónde puedo aprender más sobre la carrera?",
+      "Necesito conocer más sobre la carrera",
+      "Quiero más información sobre la carrera",
+      "Quiero más información sobre Ingeniería Civil Informática",
+      "¿Sobre que trata la carrera?",
+      "¿Qué se hace en la carrera ingeniería civil informática?",
+      "¿En qué área se especializan los ingenieros en informática?",
+      "¿Dónde puedo encontrar más información sobre esta carrara?",
+      "¿Dónde puedo ver información sobre la carrera?",
+      "Necesito saber informacion sobre la carrera",
+      "Deseo informarme sobre la carrera",
+      "¿Donde puedo obtener informacion sobre la carrera?",
+      "¿Que se hace en la carrera ingeniería civil informática?",
+      "Quiero más informacion sobre la carrera",
+      "¿Donde puedo encontrar mas informacion sobre esta carrara?"
+    ]
+  },
+  "slots": []
+}

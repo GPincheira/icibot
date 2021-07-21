@@ -1,0 +1,30 @@
+{
+  "name": "__qna__y6d2xdvi9s_d_nde_solicito_mi_t_tulo_profesional",
+  "contexts": [
+    "egresado"
+  ],
+  "utterances": {
+    "es": [
+      "¿Dónde solicito mi título profesional?",
+      "Tramites a realizar para titularme",
+      "Quiero obtener mi título profesional",
+      "Obtener el titulo luego de finalizar la carrera",
+      "Necesito solicitar mi grado",
+      "¿Cómo solicito mi grado?",
+      "Pasos a seguir para que me entreguen mi título",
+      "¿Cómo me titulo si ya terminé la carrera?",
+      "¿Cómo puedo obtener mi título?",
+      "Necesito solicitar mi título",
+      "¿Como solicito mi grado?",
+      "Deseo solicitar mi titulo profesional",
+      "¿Donde solicito mi titulo profesional?",
+      "Información para obtener mi título profesional",
+      "Informacion para obtener mi titulo profesional",
+      "¿Cómo me titulo si ya termine la carrera?",
+      "¿Cuál es la oficina de títulos y grados?",
+      "¿Cual es la oficina de titulos y grados?",
+      "¿Como contacto a títulos y grado?"
+    ]
+  },
+  "slots": []
+}

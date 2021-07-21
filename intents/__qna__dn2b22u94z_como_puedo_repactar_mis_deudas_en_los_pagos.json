@@ -1,0 +1,26 @@
+{
+  "name": "__qna__dn2b22u94z_como_puedo_repactar_mis_deudas_en_los_pagos",
+  "contexts": [
+    "global"
+  ],
+  "utterances": {
+    "es": [
+      "¿Cómo puedo repactar mis deudas en los pagos?",
+      "Quiero repactar mis pagos",
+      "Repactar pagos de arancel",
+      "¿Cómo puedo repactar mi deuda en la universidad?",
+      "¿Es posible repactar una deuda?",
+      "Quisiera repactar mi deuda con la universidad",
+      "Repactar la deuda en el pago de aranceles",
+      "¿Cómo repacto una deuda de mis cuotas?",
+      "¿Cómo repacto deuda de cuotas de arancel?",
+      "¿Puedo repactar una deuda con mis cuotas?",
+      "¿Como puedo repactar mis deudas en los pagos?",
+      "Deseo saber sobre la repactacion de deudas",
+      "Quiero repactar una deuda",
+      "¿Cómo repacto la deuda de mis cuotas?",
+      "Quiero saber sobre la repactación de cuotas"
+    ]
+  },
+  "slots": []
+}

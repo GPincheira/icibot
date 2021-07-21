@@ -1,0 +1,32 @@
+{
+  "id": "eny5sas645_donde_puedo_encontrar_recursos_digitales",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "es": [
+        "Puedes encontrar recursos digitales en el siguiente link https://portal.ucm.cl/dgd/recursos-estudiantes-dgd"
+      ]
+    },
+    "questions": {
+      "es": [
+        "¿Dónde puedo encontrar recursos digitales?",
+        "¿Qué son los recursos digitales?",
+        "Necesito ayuda sobre temas digitales",
+        "Necesito ayuda utilizando las plataformas de la universidad",
+        "Requiero ayuda para utilizar las plataformas",
+        "Necesito solicitar asistencia en el uso de los sistemas",
+        "¿Donde puedo encontrar recursos digitales?",
+        "¿Que son los recursos digitales?",
+        "Deseo saber sobre los recursos digitales",
+        "Información sobre recursos digitales",
+        "Informacion sobre recursos digitales"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

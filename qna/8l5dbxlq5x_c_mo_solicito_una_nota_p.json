@@ -1,0 +1,39 @@
+{
+  "id": "8l5dbxlq5x_c_mo_solicito_una_nota_p",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "regular"
+    ],
+    "enabled": true,
+    "answers": {
+      "es": [
+        "La nota P o nota pendiente, se utiliza para dejar una calificación de una asignatura sin su nota correspondiente en el tiempo establecido, pudiendo rendirla en un tiempo posterior. Para solicitar una nota P, debes hacerlo en el siguiente link: http://www.portalalumnos.ucm.cl/portalal/servicios/solnotap.php , y debe tener la autorización del profesor de la asignatura."
+      ]
+    },
+    "questions": {
+      "es": [
+        "¿Cómo solicito una nota P?",
+        "¿Cómo puedo dejar un ramo pendiente?",
+        "Necesito solicitar nota pendiente",
+        "¿Cómo puedo dejar pendiente un ramo para otro semestre?",
+        "¿Puedo dejar pendiente una calificación de un ramo?",
+        "¿Es posible dejar una nota pendiente?",
+        "¿Cómo solicito una nota pendiente?",
+        "¿Cómo puedo dejar un ramo con nota P?",
+        "¿Cómo puedo solicitar dejar una asignatura con nota pendiente?",
+        "Solicitar nota P en una asignatura",
+        "¿Como solicito nota P?",
+        "¿Como puedo dejar pendiente un ramo para otro semestre?",
+        "¿Como puedo dejar un ramo pendiente?",
+        "Información sobre la nota P",
+        "Informacion sobre nota P",
+        "¿Puedo dejar pendiente una calificacion de un ramo?",
+        "¿Como solicito una nota pendiente?",
+        "¿Como puedo solicitar dejar una asignatura con nota pendiente?"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

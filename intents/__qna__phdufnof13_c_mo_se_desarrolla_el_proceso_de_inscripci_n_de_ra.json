@@ -1,0 +1,33 @@
+{
+  "name": "__qna__phdufnof13_c_mo_se_desarrolla_el_proceso_de_inscripci_n_de_ra",
+  "contexts": [
+    "regular"
+  ],
+  "utterances": {
+    "es": [
+      "¿Cómo se desarrolla el proceso de inscripción de ramos?",
+      "¿Como puedo inscribir ramos?",
+      "¿Dónde inscribo ramos?",
+      "¿Cómo realizo la toma de ramos?",
+      "¿Cómo puedo elegir los ramos que daré este semestre?",
+      "Información sobre la inscripción de ramos",
+      "¿Cómo se desarrolla el proceso de inscripción de asignaturas?",
+      "¿Como puedo inscribir asignaturas?",
+      "¿Dónde inscribo asignaturas?",
+      "¿Cómo realizo la toma de asignaturas?",
+      "Periodo de inscripcion de asignaturas",
+      "Periodo de inscripción de asignaturas",
+      "¿En que fecha es la inscripcion de asignaturas?",
+      "¿En qué fecha es la inscripción de ramos?",
+      "¿En que fecha debo inscribir ramos?",
+      "¿Como se desarrolla el proceso de inscripcion de ramos?",
+      "¿Donde inscribo ramos?",
+      "¿Cómo puedo inscribir ramos?",
+      "Informacion sobre la inscripcion de ramos",
+      "¿Como realizo la toma de asignaturas?",
+      "¿Cuándo tengo que inscribir mis ramos?",
+      "¿Cuando debo inscribir mis ramos?"
+    ]
+  },
+  "slots": []
+}

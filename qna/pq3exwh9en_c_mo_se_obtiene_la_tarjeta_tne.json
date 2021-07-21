@@ -1,0 +1,39 @@
+{
+  "id": "pq3exwh9en_c_mo_se_obtiene_la_tarjeta_tne",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "es": [
+        "Cuando te matriculas por primera vez en la universidad se realiza el trámite para obtener la TNE, la cuál se te entrega en las semanas siguientes, y debes validar año a año pegándole el nuevo sello que se entregará en la UCM. Si ya eres estudiante y no tienes o perdiste tu TNE, puedes conocer como obtenerla en el siguiente link: https://www.tne.cl/?page_id=8214"
+      ]
+    },
+    "questions": {
+      "es": [
+        "¿Cómo se obtiene la tarjeta TNE?",
+        "¿Dónde consigo la TNE?",
+        "¿Cómo actualizo la tarjeta TNE?",
+        "¿Cómo se obtiene el pase escolar?",
+        "Necesito información para renovar mi pase escolar",
+        "¿Cómo renuevo mi pase escolar?",
+        "¿Cómo renuevo la TNE?",
+        "¿Dónde consigo mi pase escolar?",
+        "¿Cómo obtener la tarjeta TNE?",
+        "¿Dónde puedo solicitar la TNE?",
+        "¿Donde puedo solicitar la TNE?",
+        "¿Como actualizo la tarjeta TNE?",
+        "Necesito saber sobre la TNE",
+        "Me gustaría saber sobre la tarjeta TNE",
+        "¿Como se obtiene la tarjeta TNE?",
+        "¿Donde consigo la TNE?",
+        "Necesito informacin para renovar mi TNE",
+        "¿DóOnde consigo mi pase escolar?"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

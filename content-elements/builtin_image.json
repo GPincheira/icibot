@@ -1,0 +1,63 @@
+[
+  {
+    "id": "builtin_image-JAYxnp",
+    "formData": {
+      "typing$es": true,
+      "image$es": "/api/v1/bots/icibot/media/fzvxc9r1cbuv2ymg088g-364890eb0bf4486d88d4b35853c47624-0001.jpg"
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-05-27T07:15:52.043Z",
+    "modifiedOn": "2021-05-27T07:15:52.043Z"
+  },
+  {
+    "id": "builtin_image-zCxSHQ",
+    "formData": {
+      "typing$es": true,
+      "image$es": "/api/v1/bots/icibot/media/5x3ihpfbi264xdewm254-innovada.jpg",
+      "title$es": ""
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-05-27T20:36:03.121Z",
+    "modifiedOn": "2021-05-27T20:36:03.121Z"
+  },
+  {
+    "id": "builtin_image-j4onvI",
+    "formData": {
+      "typing$es": true,
+      "image$es": "/api/v1/bots/icibot/media/5pni421mlckblovmmp8q-objetivos.jpg"
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-05-27T20:49:40.995Z",
+    "modifiedOn": "2021-05-27T20:49:40.995Z"
+  },
+  {
+    "id": "builtin_image-DdMR7D",
+    "formData": {
+      "typing$es": true,
+      "image$es": "/api/v1/bots/icibot/media/koo2k20epuecm22ls1k4-INI.jpg"
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-05-27T20:50:05.389Z",
+    "modifiedOn": "2021-05-27T20:50:05.389Z"
+  },
+  {
+    "id": "builtin_image-W2udks",
+    "formData": {
+      "typing$es": true,
+      "image$es": "/api/v1/bots/icibot/media/c8ulwpi2ewmlgxdsezlm-IECI.jpg"
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-05-27T20:50:27.161Z",
+    "modifiedOn": "2021-05-27T20:50:27.161Z"
+  },
+  {
+    "id": "builtin_image-euONpC",
+    "formData": {
+      "typing$es": true,
+      "image$es": "/api/v1/bots/icibot/media/cnnshm793euwbj9lox8o-affbdb7739064ee1b0bd463a07ac5379-0001.jpg"
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-06-07T10:37:48.389Z",
+    "modifiedOn": "2021-06-07T10:37:48.389Z"
+  }
+]

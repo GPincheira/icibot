@@ -1,0 +1,37 @@
+{
+  "id": "kw1kxmm55f_c_mo_se_ponderan_las_notas",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "es": [
+        "Para obtener tu promedio, debes multiplicar tu calificación por el porcentaje que se le atribuye a ella, dividida por 100, y realizar la suma de estos productos con cada una de tus notas. La ponderación de cada ramo la podrás encontrar en el syllabus de cada asignatura."
+      ]
+    },
+    "questions": {
+      "es": [
+        "¿Cómo se ponderan las notas?",
+        "¿De qué manera se ponderan las notas?",
+        "¿Cómo está ponderado el semestre?",
+        "¿Qué importancia tiene cada nota en las ponderaciones?",
+        "¿De que manera se calcula un promedio?",
+        "¿Cómo se pondera el promedio de un ramo?",
+        "¿Cómo calculo la nota final de una asignatura?",
+        "¿De que manera se ponderan las notas para aprobar un ramo?",
+        "¿Cómo se realiza la ponderación de promedios?",
+        "¿Cómo pondero mi promedio?",
+        "Deseo aprender la ponderación de notas",
+        "¿Como se ponderan las notas?",
+        "¿Como esta ponderado el semestre?",
+        "¿De qué manera se calcula un promedio?",
+        "¿Que importancia tiene cada nota en las ponderaciones?",
+        "¿Como se realiza la ponderacion de promedios?"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "__qna__0bb6ic3m9p_que_es_la_t_sis",
+  "contexts": [
+    "regular"
+  ],
+  "utterances": {
+    "es": [
+      "¿Qué es la tesis?",
+      "¿En que consiste la tésis?",
+      "Tesis para obtener mi título profesional",
+      "¿Cómo debo realizar mi tesis?",
+      "¿Para que se realiza la tésis?",
+      "Quisiera saber sobre la tesis para obtener el título",
+      "Información sobre la tesis para ser ingeniero civil informático",
+      "¿Qué es una tesis?",
+      "Realización de la tesis",
+      "¿Qué es la tesis de ICI?",
+      "¿Que es la tesis?",
+      "¿De que trata la tesis?",
+      "Quiero conocer sobre las tesis",
+      "Deseo obtener información sobre la tesis",
+      "¿En qué consiste la tesis?",
+      "¿Como debo realizar mi tesis?",
+      "Informacion sobre la tesis para ser ingeniero civil informatico"
+    ]
+  },
+  "slots": []
+}

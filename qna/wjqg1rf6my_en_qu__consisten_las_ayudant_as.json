@@ -1,0 +1,36 @@
+{
+  "id": "wjqg1rf6my_en_qu__consisten_las_ayudant_as",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "regular"
+    ],
+    "enabled": true,
+    "answers": {
+      "es": [
+        "La ayudantías son clases que se realizan semanal u ocasionalmente, con el fin de apoyar los conocimientos que se te entregan en las clases de tus asignaturas, ya sea reforzando, profundizando u aplicando en ejercicios o casos. Por lo general son opcionales."
+      ]
+    },
+    "questions": {
+      "es": [
+        "¿En qué consisten las ayudantías?",
+        "¿Qué es una ayudantía?",
+        "Información sobre las ayudantías",
+        "Quisiera saber sobre las ayudantías",
+        "¿Qué importancia tienen las ayudantías?",
+        "¿Para que sirven las ayudantías?",
+        "¿Qué se hace en las ayudantías?",
+        "¿Cuál es la función de las ayudantías",
+        "Saber sobre las ayudantías",
+        "Mayor información sobre las ayudantías",
+        "Deseo saber sobre las ayudantias",
+        "¿Para que sirven las ayudantias?",
+        "¿Que es una ayudantia?",
+        "Informacion sobre las ayudantias",
+        "¿En que consisten las ayudantias?"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "__qna__7h4g4wr948_d_nde_puedo_revisar_un_historial_de_mis_calificaci",
+  "contexts": [
+    "global"
+  ],
+  "utterances": {
+    "es": [
+      "¿Dónde puedo revisar un historial de mis calificaciones?",
+      "¿Puedo ver las notas a lo largo de mi carrera?",
+      "¿Dónde ver las notas de los años anteriores en la carrera?",
+      "Revisar mis promedios en la carrera",
+      "Ver los promedios de mis asignaturas pasadas",
+      "Revisar el historial de calificaciones en la universidad",
+      "Historial de calificaciones de la carrera",
+      "Revisar los promedios obtenidos en los años pasados",
+      "¿Dónde puedo revisar mis calificaciones de asignaturas anteriores?",
+      "Ver los promedios de años anteriores",
+      "¿Donde puedo revisar un historial de mis notas?",
+      "¿Donde ver las notas de los años anteriores en la carrera?",
+      "¿Donde puedo revisar mis calificaciones de asignaturas anteriores?"
+    ]
+  },
+  "slots": []
+}

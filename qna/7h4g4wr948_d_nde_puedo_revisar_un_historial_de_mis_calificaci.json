@@ -1,0 +1,34 @@
+{
+  "id": "7h4g4wr948_d_nde_puedo_revisar_un_historial_de_mis_calificaci",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "es": [
+        "Puedes revisar tu historial de calificaciones dentro de la sección \"Información curricular\" en el portal del alumno, o entrando directamente al siguiente link: http://www.portalalumnos.ucm.cl/v2/#/boletin-notas . También puedes descargar tu concentración de notas en este link: http://www.portalalumnos.ucm.cl/portalal/servicios/concentracion/daraform.php ."
+      ]
+    },
+    "questions": {
+      "es": [
+        "¿Dónde puedo revisar un historial de mis calificaciones?",
+        "¿Puedo ver las notas a lo largo de mi carrera?",
+        "¿Dónde ver las notas de los años anteriores en la carrera?",
+        "Revisar mis promedios en la carrera",
+        "Ver los promedios de mis asignaturas pasadas",
+        "Revisar el historial de calificaciones en la universidad",
+        "Historial de calificaciones de la carrera",
+        "Revisar los promedios obtenidos en los años pasados",
+        "¿Dónde puedo revisar mis calificaciones de asignaturas anteriores?",
+        "Ver los promedios de años anteriores",
+        "¿Donde puedo revisar un historial de mis notas?",
+        "¿Donde ver las notas de los años anteriores en la carrera?",
+        "¿Donde puedo revisar mis calificaciones de asignaturas anteriores?"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "version": "0.0.1",
+  "catchAll": {
+    "next": []
+  },
+  "startNode": "entry",
+  "skillData": {
+    "randomId": "1ahviju5vd",
+    "contentId": "builtin_single-choice-yOjm-m",
+    "invalidContentId": "",
+    "keywords": {
+      "Informacion": [
+        "Informacion",
+        "Información de la carrera"
+      ],
+      "Requisitos": [
+        "Requisitos",
+        "Requisitos de ingreso"
+      ],
+      "Malla": [
+        "Malla",
+        "Malla curricular"
+      ],
+      "Sedes": [
+        "Sedes",
+        "Sedes "
+      ],
+      "Aranceles": [
+        "Aranceles",
+        "Matrícula y arancel"
+      ],
+      "Becas": [
+        "Becas",
+        "Becas y creditos"
+      ],
+      "Perfil": [
+        "Perfil",
+        "Perfil de Egreso"
+      ],
+      "Reglamento": [
+        "Reglamento",
+        "Reglamento estudiantil"
+      ],
+      "Redes": [
+        "Redes",
+        "Redes sociales"
+      ]
+    },
+    "config": {
+      "nbMaxRetries": 3,
+      "repeatChoicesOnInvalid": false,
+      "variableName": ""
+    }
+  },
+  "nodes": [
+    {
+      "name": "entry",
+      "onEnter": [
+        "say #!builtin_single-choice-yOjm-m {\"skill\":\"choice\"}"
+      ],
+      "next": [
+        {
+          "condition": "true",
+          "node": "parse"
+        }
+      ],
+      "id": "753076"
+    },
+    {
+      "name": "parse",
+      "onReceive": [
+        "basic-skills/choice_parse_answer {\"randomId\":\"1ahviju5vd\",\"contentId\":\"builtin_single-choice-yOjm-m\",\"invalidContentId\":\"\",\"keywords\":{\"Informacion\":[\"Informacion\",\"Información de la carrera\"],\"Requisitos\":[\"Requisitos\",\"Requisitos de ingreso\"],\"Malla\":[\"Malla\",\"Malla curricular\"],\"Sedes\":[\"Sedes\",\"Sedes \"],\"Aranceles\":[\"Aranceles\",\"Matrícula y arancel\"],\"Becas\":[\"Becas\",\"Becas y creditos\"],\"Perfil\":[\"Perfil\",\"Perfil de Egreso\"],\"Reglamento\":[\"Reglamento\",\"Reglamento estudiantil\"],\"Redes\":[\"Redes\",\"Redes sociales\"]},\"config\":{\"nbMaxRetries\":3,\"repeatChoicesOnInvalid\":false,\"variableName\":\"\"}}"
+      ],
+      "next": [
+        {
+          "condition": "temp['skill-choice-valid-1ahviju5vd'] === true",
+          "node": "#"
+        },
+        {
+          "condition": "true",
+          "node": "invalid"
+        }
+      ],
+      "triggers": [
+        {
+          "conditions": [
+            {
+              "id": "always"
+            }
+          ]
+        }
+      ],
+      "onEnter": [],
+      "id": "109831"
+    },
+    {
+      "name": "invalid",
+      "onEnter": [
+        "basic-skills/choice_invalid_answer {\"randomId\":\"1ahviju5vd\"}"
+      ],
+      "next": [
+        {
+          "condition": "Number(temp['skill-choice-invalid-count-1ahviju5vd']) > Number(3)",
+          "node": "#"
+        },
+        {
+          "condition": "true",
+          "node": "sorry"
+        }
+      ],
+      "id": "186935"
+    },
+    {
+      "name": "sorry",
+      "onEnter": [],
+      "next": [
+        {
+          "condition": "true",
+          "node": "parse"
+        }
+      ],
+      "id": "252198"
+    }
+  ]
+}

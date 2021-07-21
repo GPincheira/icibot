@@ -1,0 +1,37 @@
+{
+  "id": "pkx79j6lqy_qu__es_el_alumni",
+  "data": {
+    "action": "redirect",
+    "contexts": [
+      "egresado"
+    ],
+    "enabled": true,
+    "answers": {
+      "es": []
+    },
+    "questions": {
+      "es": [
+        "¿Qué es el alumni?",
+        "Red de egresados de la UCM",
+        "¿Cómo me ayuda la UCM consiguiendo empleo luego de egresar?",
+        "¿Cómo mantener mi red con la UCM?",
+        "¿Existe alguna comunidad de ex-estudiantes?",
+        "Contactar Alumni de la UCM",
+        "¿Cómo contacto con el Alumni?",
+        "¿Qué puedo conseguir en el Alumni?",
+        "Conocer que funciones cumple el Alumni",
+        "Alumni de la UCM",
+        "¿En qué consiste el Alumni UCM?",
+        "¿Que es el alumni?",
+        "¿En que consiste el Alumni UCM?",
+        "Necesito saber sobre el Alumni de la UCM",
+        "¿Como me ayuda la UCM consiguiendo empleo luego de egresar?",
+        "¿Como mantener mi red con la UCM?",
+        "Información sobre Alumni UCM",
+        "Informacion sobre el Alumni UCM"
+      ]
+    },
+    "redirectFlow": "Conocer-alumni.flow.json",
+    "redirectNode": "node-f2bb"
+  }
+}

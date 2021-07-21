@@ -1,0 +1,39 @@
+{
+  "id": "aun5ihuhpk_por_cuantos_a_os_est__acreditada_la_universidad_y",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "es": [
+        "La acreditación tanto de la carrera como la universidad, es de 6 años. La universidad estará acreditada hasta el año 2026, y la carrera hasta el año 2024."
+      ]
+    },
+    "questions": {
+      "es": [
+        "¿Por cuantos años está acreditada la universidad y la carrera?",
+        "¿Cuántos años de acreditación tiene la universidad?",
+        "¿Cuántos años durará la acreditación?",
+        "Información sobre los años de acreditación de la carrera",
+        "Años de acreditación de la universidad",
+        "¿Cuántos años de acreditación tiene la carrera?",
+        "Información sobre los años de acreditación de la universidad",
+        "¿Cuántos años de acreditación tiene la UCM?",
+        "¿Por cuantos años está acreditada la universidad?",
+        "¿Por cuantos años está acreditada la carrera?",
+        "¿Cuantos años dura la acreditacion?",
+        "¿Cuantos años de acreditacion tiene la universidad?",
+        "¿Cuantos años de acreditacion tiene la carrera?",
+        "Informacion sobre los años de acreditacion de la carrera",
+        "¿Por cuántos años esta acreditada la universidad?",
+        "¿Por cuántos años esta acreditada la universidad y la carrera?",
+        "¿Cuantos años durara la acreditacion?",
+        "¿Cuantos años de acreditacion tiene la UCM?"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "__qna__dnpqlvwny8_que_es_el_portal_del_alumno",
+  "contexts": [
+    "global"
+  ],
+  "utterances": {
+    "es": [
+      "¿Qué es el portal del alumno?",
+      "¿Qué es el simbad?",
+      "¿Dónde accedo al Portal del alumno?",
+      "¿Qué puedo encontrar en el portal del alumno?",
+      "Uso del portal del alumno",
+      "¿Qué utilidad tiene el portal del alumno?",
+      "¿Para que se utiliza el portal del alumno?",
+      "¿Cómo entro al portal del alumno?",
+      "Acceder al portal del alumno",
+      "Ingresar al portal del alumno",
+      "¿Cuál es la ruta del portal del alumno?",
+      "Ruta del portal del alumno",
+      "Enlace del portal del alumno",
+      "Entrar al portal del alumno",
+      "¿Como entro al portal del alumno?",
+      "¿Cómo encuentro el enlace al portal?",
+      "¿Dónde encuentro el enlace al portal del alumno?",
+      "¿Existe algún portal donde pueda ver mis notas?",
+      "Donde puedo saber que beneficios estudiantiles tengo asignados",
+      "¿Que es el Portal del alumno?",
+      "¿Donde encuentro el enlace al portal del alumno?",
+      "¿Donde accedo al Portal del alumno?",
+      "¿Cual es la ruta del portal del alumno?"
+    ]
+  },
+  "slots": []
+}

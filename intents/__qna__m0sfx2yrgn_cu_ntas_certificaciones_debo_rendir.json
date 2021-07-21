@@ -1,0 +1,30 @@
+{
+  "name": "__qna__m0sfx2yrgn_cu_ntas_certificaciones_debo_rendir",
+  "contexts": [
+    "regular"
+  ],
+  "utterances": {
+    "es": [
+      "¿Cuántas certificaciones debo rendir?",
+      "Cantidad de certificaciones que debo inscribir",
+      "¿Cuántas certificaciones tengo que dar?",
+      "Cantidad de certificaciones que debo aprobar",
+      "¿Qué cantidad de certificaciones debo aprobar?",
+      "Mínimo de certificaciones aprobadas",
+      "Cantidad de certificaciones a rendir",
+      "¿Cuántas certificaciones tendría que aprobar?",
+      "¿Cuál es el mínimo de certificaciones que debo tener?",
+      "¿Cuántas certificaciones tengo que tener aprobadas?",
+      "Necesito saber la cantidades de certificaciones que debo aprobar",
+      "Me gustaria saber el minimo de certificaciones a aprobar",
+      "¿Cuantas certificaciones debo rendir?",
+      "¿Que cantidad de certificaciones debo aprobar?",
+      "¿Cual es el mínimo de certificaciones que debo tener?",
+      "¿Cuantas certificaciones tengo que dar?",
+      "¿Cual es el minimo de certificaciones que debo tener?",
+      "¿Tengo que tomar alguna certificación?",
+      "¿Tengo que rendir alguna certificación?"
+    ]
+  },
+  "slots": []
+}

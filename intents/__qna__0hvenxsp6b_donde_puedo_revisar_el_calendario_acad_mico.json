@@ -1,0 +1,31 @@
+{
+  "name": "__qna__0hvenxsp6b_donde_puedo_revisar_el_calendario_acad_mico",
+  "contexts": [
+    "global"
+  ],
+  "utterances": {
+    "es": [
+      "¿Dónde puedo revisar el calendario académico?",
+      "Ver el calendario académico",
+      "¿Donde puedo revisar las fechas importantes en el semestre?",
+      "Revisar fechas relevantes en el año",
+      "Ver calendario académico del presente año",
+      "Quiero ver el calendario académico de este año",
+      "¿Dónde encuentro el calendario académico?",
+      "¿En qué sitio puedo encontrar el calendario académico?",
+      "Muéstrame el calendario académico de este año",
+      "¿En que parte puedo revisar el calendario académico?",
+      "¿Dónde puedo revisar el calendario academico?",
+      "Ver calendario academico",
+      "¿Donde encuentro el calendario academico?",
+      "Quiero conocer el calendario académico",
+      "Quiero conocer el calendario academico",
+      "Me gustaría ver el calendario academico",
+      "¿Donde puedo ver el calendario académico?",
+      "¿Dónde puedo revisar las fechas importantes en el año?",
+      "Muestrame el calendario academico de este año",
+      "¿En que sitio puedo encontrar el calendario academico?"
+    ]
+  },
+  "slots": []
+}

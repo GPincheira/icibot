@@ -1,0 +1,25 @@
+{
+  "name": "__qna__pk3irgvew2_donde_puedo_encontrar_los_syllabus_de_mis_asignatu",
+  "contexts": [
+    "global"
+  ],
+  "utterances": {
+    "es": [
+      "¿Dónde puedo encontrar los syllabus de mis asignaturas?",
+      "¿Dónde están los syllabus?",
+      "¿Dónde puedo ver los contenidos de una asignatura?",
+      "¿Dónde puedo saber la planificación de un ramo?",
+      "Planificación de una asignatura",
+      "Archivos con la planificación de cada ramo",
+      "¿Dónde encuentro la planificación y contenidos de mis asignaturas?",
+      "Quisiera encontrar los syllabus de mis ramos",
+      "Ver el syllabus de una asignatura",
+      "Ver los contenidos de un ramo",
+      "Planificación de mis asignaturas",
+      "¿Donde puedo encontrar los syllabus de mis asignaturas?",
+      "¿Donde están los syllabus?",
+      "¿Donde puedo saber la planificacion de un ramo?"
+    ]
+  },
+  "slots": []
+}

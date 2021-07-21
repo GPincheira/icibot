@@ -1,0 +1,30 @@
+{
+  "name": "__qna__yzkobl371p_d_nde_puedo_revisar_noticias_de_la_carrera",
+  "contexts": [
+    "global"
+  ],
+  "utterances": {
+    "es": [
+      "¿Dónde puedo revisar noticias de la carrera?",
+      "¿Cómo puedo saber más sobre la carrera?",
+      "Ver noticias de la carrera",
+      "Informarme sobre el día a día de la carrera",
+      "¿Cómo puedo estar actualizado sobre lo que sucede en la carrera?",
+      "¿En qué sitio veo noticias de la carrera?",
+      "¿Cómo puedo informarme sobre la carrera?",
+      "Revisar las ultimas noticias de la carrera",
+      "¿Dónde encuentro la actualidad de la carrera?",
+      "Mantenerme informado sobre la carrera",
+      "Deseo ver noticias sobre la carrera",
+      "¿Donde puedo revisar noticias de la carrera?",
+      "¿En que sitio veo noticias de la carrera?",
+      "Me gustaría ver noticias de la carrera",
+      "¿Como puedo saber mas sobre la carrera?",
+      "¿En que sitio puedo ver noticias de la carrera?",
+      "¿Donde encuentro la actualidad de la carrera?",
+      "¿Cuál es la página web de la carrera?",
+      "¿La carrera tiene sitio web?"
+    ]
+  },
+  "slots": []
+}

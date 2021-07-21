@@ -1,0 +1,25 @@
+{
+  "name": "__qna__1ifplvg8xu_d_nde_puedo_ver_galer_a_de_im_genes_de_la_carrera",
+  "contexts": [
+    "global"
+  ],
+  "utterances": {
+    "es": [
+      "¿Dónde puedo ver galería de imágenes de la carrera?",
+      "¿Dónde está la galería de imágenes de la carrera?",
+      "¿Hay algún sitio con fotos de la carrera?",
+      "¿Dónde puedo ver fotos de la carrera?",
+      "Fotos de eventos realizados en la carrera",
+      "Fotos importantes de la carrea",
+      "¿Dónde puedo encontrar imágenes de la carrera?",
+      "¿En qué sitio hay fotos de la carrera?",
+      "¿En qué sitio hay alguna galería de imágenes de la carrera?",
+      "¿Dónde puedo ver galería de fotos de la carrera?",
+      "¿Donde puedo ver galeria de imagenes de la carrera?",
+      "¿Donde esta la galeria de imagenes de la carrera?",
+      "¿Donde puedo ver fotos de la carrera?",
+      "¿En que sitio hay alguna galeria de imagenes de la carrera?"
+    ]
+  },
+  "slots": []
+}

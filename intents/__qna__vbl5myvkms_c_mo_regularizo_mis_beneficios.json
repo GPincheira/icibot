@@ -1,0 +1,32 @@
+{
+  "name": "__qna__vbl5myvkms_c_mo_regularizo_mis_beneficios",
+  "contexts": [
+    "egresado"
+  ],
+  "utterances": {
+    "es": [
+      "¿Cómo regularizo mis beneficios?",
+      "Quisiera regularizar mis beneficios",
+      "Realizar pago del fondo solidario",
+      "Pagar los créditos que tuve como estudiante",
+      "Conocer sobre el pago de mis créditos",
+      "Comenzar a pagar el fondo solidario",
+      "Regularización del crédito con aval del estado",
+      "Regularizar el CAE",
+      "Regularización del fondo solidario",
+      "Comenzar a pagar el crédito interno",
+      "Proceso para pagar créditos",
+      "¿Como regularizo mis beneficios?",
+      "Pagar los creditos que tuve como estudiante",
+      "Regularizacion del fondo solidario",
+      "Regularización del CAE",
+      "¿Cómo puedo pagar el crédito interno de la ucm?",
+      "¿Como puedo pagar el credito interno?",
+      "¿Dónde debo pagar mis créditos?",
+      "¿Dónde puedo ver mi deuda de crédito solidario?",
+      "¿Dónde puedo ver mi deuda del fondo solidario?",
+      "¿Donde puedo ver mis deudas de créditos?"
+    ]
+  },
+  "slots": []
+}

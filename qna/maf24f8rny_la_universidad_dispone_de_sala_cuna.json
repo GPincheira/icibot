@@ -1,0 +1,33 @@
+{
+  "id": "maf24f8rny_la_universidad_dispone_de_sala_cuna",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "es": [
+        "La universidad dispone de ciertos beneficios para estudiantes padres y madres, donde se incluye la sala cuna. Puedes conocer sobre esto en el siguiente reglamento: \nhttp://portal.ucm.cl//content/uploads/2019/04/PROTOCOLO_PADRES_Y_MADRES_UCM.pdf"
+      ]
+    },
+    "questions": {
+      "es": [
+        "¿La universidad dispone de sala cuna?",
+        "¿Existe sala cuna en la universidad?",
+        "¿Como puedo llevar a mi hijo a la sala cuna?",
+        "Información sobre la sala cuna de la universidad",
+        "¿Donde postulo a la sala cuna de la universidad?",
+        "Inscribirme en la sala cuna de la universidad",
+        "Inscribir a mi hijo a la sala cuna de la ucm",
+        "¿Como puedo inscribir a mi hijo al servicio de sala cuna de la universidad?",
+        "¿Cómo puedo inscribir a mi hijo al servicio de sala cuna de la universidad?",
+        "¿Dónde postulo a la sala cuna de la universidad?",
+        "Informacion sobre la sala cuna de la universidad",
+        "¿Cómo puedo llevar a mi hijo a la sala cuna?"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

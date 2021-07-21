@@ -1,0 +1,39 @@
+{
+  "name": "__qna__b62ecebrgr_existe_alg_n_mapa_de_salas_de_la_universidad",
+  "contexts": [
+    "global"
+  ],
+  "utterances": {
+    "es": [
+      "¿Existe algún mapa de salas de la universidad?",
+      "Necesito algún mapa de salas",
+      "Necesito algún plano de salas",
+      "¿Cómo puedo ver la ubicación de una sala?",
+      "Ver la ubicación de las salas",
+      "Ver la ubicación de las aulas",
+      "Saber donde puedo encontrar una sala",
+      "Quiero ver el mapa de la universidad",
+      "¿Dónde está el mapa de salas?",
+      "¿Dónde está mi sala?",
+      "¿Dónde busco mi sala?",
+      "¿Donde busco mi sala?",
+      "¿Como busco una sala?",
+      "Deseo encontrar una sala",
+      "¿Cómo puedo buscar mi sala?",
+      "¿Dónde encuentro el mapa de las salas Universidad?",
+      "¿Donde encuentro el mapa de las salas UCM?",
+      "Deseo ver el mapa de la universidad",
+      "Necesito buscar una sala",
+      "¿Existe algun mapa de salas de la universidad?",
+      "Necesito algun mapa de salas",
+      "¿Como puedo ver la ubicacion de una sala?",
+      "¿Donde esta el mapa de salas?",
+      "¿Donde esta mi sala?",
+      "¿Donde encuentro el mapa de las salas Universidad?",
+      "¿Como puedo saber dónde queda una sala?",
+      "¿Dónde está el infoaula?",
+      "¿Dónde encuentro el departamento de finanzas?"
+    ]
+  },
+  "slots": []
+}

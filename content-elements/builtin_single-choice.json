@@ -1,0 +1,357 @@
+[
+  {
+    "id": "builtin_single-choice-MD0U2l",
+    "formData": {
+      "dropdownPlaceholder$en": "Select...",
+      "choices$en": [
+        {
+          "title": "No soy estudiante",
+          "value": "Externo"
+        },
+        {
+          "title": "Primer año",
+          "value": "Primero"
+        },
+        {
+          "title": "Segundo año",
+          "value": "Segundo"
+        },
+        {
+          "title": "Tercer año",
+          "value": "Tercero"
+        },
+        {
+          "title": "Cuarto año",
+          "value": "Cuarto"
+        },
+        {
+          "title": "Quinto año",
+          "value": "Quinto"
+        },
+        {
+          "title": "Sexto año o superiores",
+          "value": "Sexto"
+        },
+        {
+          "title": "Ya egresé",
+          "value": "Egresado"
+        }
+      ],
+      "markdown$en": true,
+      "disableFreeText$en": false,
+      "typing$en": true,
+      "text$en": "Indicame en que nivel de la carrera Ingeniería Civíl Informática estas, si es que corresponde.",
+      "text$es": "Indicame en que nivel de la carrera Ingeniería Civíl Informática estas, si es que corresponde.",
+      "dropdownPlaceholder$es": "Select...",
+      "choices$es": [
+        {
+          "title": "No soy estudiante",
+          "value": "Externo"
+        },
+        {
+          "title": "Primer año",
+          "value": "Primero"
+        },
+        {
+          "title": "Segundo año",
+          "value": "Segundo"
+        },
+        {
+          "title": "Tercer año",
+          "value": "Tercero"
+        },
+        {
+          "title": "Cuarto año",
+          "value": "Cuarto"
+        },
+        {
+          "title": "Quinto año",
+          "value": "Quinto"
+        },
+        {
+          "title": "Sexto año o superiores",
+          "value": "Sexto"
+        },
+        {
+          "title": "Ya egresé",
+          "value": "Egresado"
+        }
+      ],
+      "markdown$es": true,
+      "typing$es": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-04-25T21:40:00.777Z",
+    "modifiedOn": "2021-04-25T21:55:21.712Z"
+  },
+  {
+    "id": "builtin_single-choice-j0G-X3",
+    "formData": {
+      "dropdownPlaceholder$es": "Select...",
+      "choices$es": [
+        {
+          "title": "Ingeniería Civil Informática",
+          "value": "ICI"
+        },
+        {
+          "title": "Tengo otros intereses",
+          "value": "Otra"
+        }
+      ],
+      "markdown$es": true,
+      "disableFreeText$es": false,
+      "typing$es": true,
+      "text$es": "¿Estás interesado en la carrera de Ingeniería Civil Informática?"
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-05-24T02:19:36.747Z",
+    "modifiedOn": "2021-05-24T02:19:36.747Z"
+  },
+  {
+    "id": "builtin_single-choice-yOjm-m",
+    "formData": {
+      "dropdownPlaceholder$es": "Select...",
+      "choices$es": [
+        {
+          "title": "Información de la carrera",
+          "value": "Informacion"
+        },
+        {
+          "title": "Requisitos de ingreso",
+          "value": "Requisitos"
+        },
+        {
+          "title": "Malla curricular",
+          "value": "Malla"
+        },
+        {
+          "title": "Sedes ",
+          "value": "Sedes"
+        },
+        {
+          "title": "Matrícula y arancel",
+          "value": "Aranceles"
+        },
+        {
+          "title": "Becas y creditos",
+          "value": "Becas"
+        },
+        {
+          "title": "Perfil de Egreso",
+          "value": "Perfil"
+        },
+        {
+          "title": "Reglamento estudiantil",
+          "value": "Reglamento"
+        },
+        {
+          "title": "Redes sociales",
+          "value": "Redes"
+        }
+      ],
+      "markdown$es": true,
+      "disableFreeText$es": false,
+      "typing$es": true,
+      "text$es": "¿Sobre que te gustaría saber?"
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-05-25T07:03:21.444Z",
+    "modifiedOn": "2021-05-27T03:52:10.816Z"
+  },
+  {
+    "id": "builtin_single-choice-1v04UF",
+    "formData": {
+      "dropdownPlaceholder$es": "Select...",
+      "choices$es": [
+        {
+          "title": "Si",
+          "value": "Si"
+        },
+        {
+          "title": "No, gracias",
+          "value": "No"
+        }
+      ],
+      "markdown$es": true,
+      "disableFreeText$es": false,
+      "typing$es": true,
+      "text$es": "¿Necesitas algo más?"
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-05-27T00:30:38.638Z",
+    "modifiedOn": "2021-05-27T00:30:38.638Z"
+  },
+  {
+    "id": "builtin_single-choice-S92wH_",
+    "formData": {
+      "dropdownPlaceholder$es": "Select...",
+      "choices$es": [
+        {
+          "title": "Si",
+          "value": "Si"
+        },
+        {
+          "title": "No",
+          "value": "No"
+        }
+      ],
+      "markdown$es": true,
+      "disableFreeText$es": false,
+      "typing$es": true,
+      "text$es": "{{session.slots.nombre.value}} ¿Deseas recibir comprobante de tu petición a tu correo {{session.slots.correo.value}}?"
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-05-27T20:24:32.497Z",
+    "modifiedOn": "2021-06-11T11:16:12.582Z"
+  },
+  {
+    "id": "builtin_single-choice-3pF5ze",
+    "formData": {
+      "dropdownPlaceholder$es": "Select...",
+      "choices$es": [
+        {
+          "title": "Malla ICI por competencias (Innovada)",
+          "value": "Innovada"
+        },
+        {
+          "title": "Mall ICI por objetivos",
+          "value": "Objetivos"
+        },
+        {
+          "title": "Malla Ingeniería Informática",
+          "value": "Informatica"
+        },
+        {
+          "title": "Malla Ingeniería Ejecución en Computación e Informática",
+          "value": "Ejecucion"
+        }
+      ],
+      "markdown$es": true,
+      "disableFreeText$es": false,
+      "typing$es": true,
+      "text$es": "¿Que malla curricular quieres revisar?"
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-05-27T20:34:18.680Z",
+    "modifiedOn": "2021-05-27T20:34:18.680Z"
+  },
+  {
+    "id": "builtin_single-choice-ik00T5",
+    "formData": {
+      "dropdownPlaceholder$es": "Select...",
+      "choices$es": [
+        {
+          "title": "Malla por competencias",
+          "value": "competencias"
+        },
+        {
+          "title": "Malla por objetivos",
+          "value": "objetivos"
+        }
+      ],
+      "markdown$es": true,
+      "disableFreeText$es": false,
+      "typing$es": true,
+      "text$es": "¿De que malla quieres revisar sus cursos?"
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-05-27T21:02:34.543Z",
+    "modifiedOn": "2021-05-27T21:02:34.543Z"
+  },
+  {
+    "id": "builtin_single-choice-V80qm-",
+    "formData": {
+      "dropdownPlaceholder$es": "Select...",
+      "choices$es": [
+        {
+          "title": "Credito con Aval del Estado (CAE)",
+          "value": "CAE"
+        },
+        {
+          "title": "Fondo Solidario de Educación Superior (FSCU)",
+          "value": "FSCU"
+        },
+        {
+          "title": "Créditos internos UCM",
+          "value": "Internos"
+        }
+      ],
+      "markdown$es": true,
+      "disableFreeText$es": false,
+      "typing$es": true,
+      "text$es": "¿Qué beneficio quieres regularizar?"
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-06-01T06:52:21.305Z",
+    "modifiedOn": "2021-06-01T06:52:21.305Z"
+  },
+  {
+    "id": "builtin_single-choice-i1A6Wf",
+    "formData": {
+      "dropdownPlaceholder$es": "Select...",
+      "choices$es": [
+        {
+          "title": "Si",
+          "value": "Si"
+        },
+        {
+          "title": "No, le escribiré a su correo",
+          "value": "No"
+        }
+      ],
+      "markdown$es": true,
+      "disableFreeText$es": false,
+      "typing$es": true,
+      "text$es": "Puedes contactar con nuestro director, Paulo Gonzalez a su correo electrónico pgonzalez@ucm.cl . ¿Deseas que le de un aviso para que te contacte y agendar una cita?"
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-06-05T06:24:52.942Z",
+    "modifiedOn": "2021-06-05T06:24:52.942Z"
+  },
+  {
+    "id": "builtin_single-choice-8YIObC",
+    "formData": {
+      "dropdownPlaceholder$es": "Select...",
+      "choices$es": [
+        {
+          "title": "Si",
+          "value": "Si"
+        },
+        {
+          "title": "No, gracias",
+          "value": "No"
+        }
+      ],
+      "markdown$es": true,
+      "disableFreeText$es": false,
+      "typing$es": true,
+      "text$es": "¿Necesitas algo más?"
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-06-10T11:38:44.230Z",
+    "modifiedOn": "2021-06-10T11:38:44.230Z"
+  },
+  {
+    "id": "builtin_single-choice-Xw9hAH",
+    "formData": {
+      "dropdownPlaceholder$es": "Select...",
+      "choices$es": [
+        {
+          "title": "Malla por objetivos",
+          "value": "objetivos"
+        },
+        {
+          "title": "Malla por competencias (innovada)",
+          "value": "competencias"
+        }
+      ],
+      "markdown$es": true,
+      "disableFreeText$es": false,
+      "typing$es": true,
+      "text$es": "¿A qué malla perteneces?"
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-06-11T09:26:47.495Z",
+    "modifiedOn": "2021-06-11T09:26:47.495Z"
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "name": "__qna__cnizlba5dn_cuando_debo_realizar_mi_tesis",
+  "contexts": [
+    "regular"
+  ],
+  "utterances": {
+    "es": [
+      "¿Cuándo debo realizar mi tesis?",
+      "¿En qué semestre se hace la tesis?",
+      "¿Cuándo tengo que comenzar la tesis?",
+      "¿Cuándo tengo que hacer la tesis?",
+      "¿En qué momento se hace la tesis?",
+      "¿A qué altura de la carrera se hace la tesis?",
+      "Información sobre cuando debo hacer la tesis",
+      "¿En qué momento se debe hace la tesis?",
+      "¿A qué semestre corresponde la tesis?",
+      "¿La tesis se realiza al finalizar la carrera?",
+      "¿Cuando debo realizar mi tesis?",
+      "¿En que semestre se hace la tesis?",
+      "Informacion sobre cuando debo hacer la tesis",
+      "¿En que momento se debe hace la tesis?",
+      "¿En que año se hace la tesis?",
+      "¿Cuando tengo que hacer la tesis?",
+      "¿A que altura de la carrera se hace la tesis?"
+    ]
+  },
+  "slots": []
+}

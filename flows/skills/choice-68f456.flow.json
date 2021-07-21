@@ -1,0 +1,105 @@
+{
+  "version": "0.0.1",
+  "catchAll": {
+    "next": []
+  },
+  "startNode": "entry",
+  "skillData": {
+    "randomId": "iix3hkwpln",
+    "contentId": "builtin_single-choice-3pF5ze",
+    "invalidContentId": "",
+    "keywords": {
+      "Innovada": [
+        "Innovada",
+        "Malla ICI por competencias (Innovada)"
+      ],
+      "Objetivos": [
+        "Objetivos",
+        "Mall ICI por objetivos"
+      ],
+      "Informatica": [
+        "Informatica",
+        "Malla Ingeniería Informática"
+      ],
+      "Ejecucion": [
+        "Ejecucion",
+        "Malla Ingeniería Ejecución en Computación e Informática"
+      ]
+    },
+    "config": {
+      "nbMaxRetries": 3,
+      "repeatChoicesOnInvalid": false,
+      "variableName": ""
+    }
+  },
+  "nodes": [
+    {
+      "name": "entry",
+      "onEnter": [
+        "say #!builtin_single-choice-3pF5ze {\"skill\":\"choice\"}"
+      ],
+      "next": [
+        {
+          "condition": "true",
+          "node": "parse"
+        }
+      ],
+      "id": "093855"
+    },
+    {
+      "name": "parse",
+      "onReceive": [
+        "basic-skills/choice_parse_answer {\"randomId\":\"iix3hkwpln\",\"contentId\":\"builtin_single-choice-3pF5ze\",\"invalidContentId\":\"\",\"keywords\":{\"Innovada\":[\"Innovada\",\"Malla ICI por competencias (Innovada)\"],\"Objetivos\":[\"Objetivos\",\"Mall ICI por objetivos\"],\"Informatica\":[\"Informatica\",\"Malla Ingeniería Informática\"],\"Ejecucion\":[\"Ejecucion\",\"Malla Ingeniería Ejecución en Computación e Informática\"]},\"config\":{\"nbMaxRetries\":3,\"repeatChoicesOnInvalid\":false,\"variableName\":\"\"}}"
+      ],
+      "next": [
+        {
+          "condition": "temp['skill-choice-valid-iix3hkwpln'] === true",
+          "node": "#"
+        },
+        {
+          "condition": "true",
+          "node": "invalid"
+        }
+      ],
+      "triggers": [
+        {
+          "conditions": [
+            {
+              "id": "always"
+            }
+          ]
+        }
+      ],
+      "onEnter": [],
+      "id": "460384"
+    },
+    {
+      "name": "invalid",
+      "onEnter": [
+        "basic-skills/choice_invalid_answer {\"randomId\":\"iix3hkwpln\"}"
+      ],
+      "next": [
+        {
+          "condition": "Number(temp['skill-choice-invalid-count-iix3hkwpln']) > Number(3)",
+          "node": "#"
+        },
+        {
+          "condition": "true",
+          "node": "sorry"
+        }
+      ],
+      "id": "651051"
+    },
+    {
+      "name": "sorry",
+      "onEnter": [],
+      "next": [
+        {
+          "condition": "true",
+          "node": "parse"
+        }
+      ],
+      "id": "357540"
+    }
+  ]
+}

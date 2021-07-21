@@ -1,0 +1,37 @@
+{
+  "id": "m2lpx1sc5p_d_nde_reviso_mis_calificaciones",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "es": [
+        "Puedes ver las calificaciones del actual semestre en el boletín de notas parciales de la sección Información Curricular del portal del Alumno, o directamente en este link: http://www.portalalumnos.ucm.cl/v2/#/notas-parciales"
+      ]
+    },
+    "questions": {
+      "es": [
+        "¿Dónde reviso mis calificaciones?",
+        "Necesito revisar mis calificaciones",
+        "Ver las notas de mis asignaturas",
+        "Necesito ver las notas de este semestre",
+        "¿Dónde puedo revisar las notas de este semestre?",
+        "¿En qué sitio puedo ver mis calificaciones?",
+        "¿En qué plataforma puedo ver mis calificaciones?",
+        "¿En qué plataforma puedo ver mis notas?",
+        "¿Dónde puedo encontrar mis notas?",
+        "¿En que lugar puedo revisar mis calificaciones?",
+        "¿En qué ruta puedo ver mis calificaciones?",
+        "¿Dónde puedo ver mis notas?",
+        "¿Donde puedo ver mis notas?",
+        "¿Donde reviso mis calificaciones?",
+        "¿Donde puedo revisar las notas de este semestre?",
+        "¿En que plataforma puedo ver mis calificaciones?"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

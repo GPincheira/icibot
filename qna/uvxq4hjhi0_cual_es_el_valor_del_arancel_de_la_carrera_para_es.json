@@ -1,0 +1,39 @@
+{
+  "id": "uvxq4hjhi0_cual_es_el_valor_del_arancel_de_la_carrera_para_es",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "es": [
+        "Para el año 2021, el valor de arancel será de $ 4.000.000 para alumnos de la malla innovada, mientras que los alumnos con la malla por objetivos tendrán un valor de $3.547.000"
+      ]
+    },
+    "questions": {
+      "es": [
+        "¿Cuál es el valor del arancel de la carrera para este año?",
+        "¿Cuál es el valor anual de la carrera?",
+        "¿Cuánto sale estudiar la carrera?",
+        "Precio del arancel de la carrera",
+        "Valor del arancel de Ingeniería Civil Informática",
+        "Arancel real de la carrera",
+        "Arancel de referencia de la carrera",
+        "¿Cuánto debo pagar anualmente en la carrera?",
+        "¿Cuál es el precio del arancel?",
+        "Precio de los aranceles anuales de la carrera",
+        "¿Cual es el valor del arancel de la carrera para este año?",
+        "Necesito saber el valor de arancel de este año",
+        "Deseo saber el precio del arancel para este año",
+        "¿Cual es el valor anual de la carrera?",
+        "¿Cual es el precio del arancel?",
+        "¿Cuanto cuesta estudiar la carrera?",
+        "Información sobre el valor del arancel",
+        "Informacion sobre el precio del arancel"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

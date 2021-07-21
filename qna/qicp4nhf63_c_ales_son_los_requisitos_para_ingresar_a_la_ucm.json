@@ -1,0 +1,40 @@
+{
+  "id": "qicp4nhf63_c_ales_son_los_requisitos_para_ingresar_a_la_ucm",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "es": [
+        "Para conocer los requisitos y procesos de admisión de nuestra carrera u otras, visita el siguiente link: https://portal.ucm.cl/admision"
+      ]
+    },
+    "questions": {
+      "es": [
+        "¿Cuáles son los requisitos para ingresar a la UCM?",
+        "¿Qué necesito para ingresar a la UCM?",
+        "¿Cómo puedo entrar a la universidad?",
+        "Requisitos para entrar a la carrera",
+        "¿Cuáles son los requisitos para entrar a estudiar ICI?",
+        "Información sobre los requisitos de la carrera",
+        "¿Cuál es el puntaje mínimo para entrar a la universidad?",
+        "Puntaje necesario para estudiar en la carrera",
+        "Puntaje mínimo para postular a la carrera",
+        "¿Dónde me informo para ingresar a la universidad?",
+        "¿Cuál es el puntaje de corte?",
+        "Puntaje de corto para postular a la carrera",
+        "¿Cuales son los requisitos para ingresar a la UCM?",
+        "¿Que necesito para ingresar a la UCM?",
+        "¿Como puedo entrar a la universidad?",
+        "Informacion sobre los requisitos de la carrera",
+        "¿Cual es el puntaje minimo para entrar a la universidad?",
+        "¿Cual es el puntaje de corte?",
+        "¿Donde me informo para ingresar a la universidad?"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

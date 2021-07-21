@@ -1,0 +1,35 @@
+{
+  "id": "b2b3yz1vk8_c_mo_puedo_participar_en_la_pastoral",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "regular"
+    ],
+    "enabled": true,
+    "answers": {
+      "es": [
+        "Cualquier alumno puede ser parte de la pastoral. Puedes conocer como unirte en el sitio https://portal.ucm.cl/pastoral-universitaria, o contactar directamente al correo electrónico pastoral@ucm.cl"
+      ]
+    },
+    "questions": {
+      "es": [
+        "¿Cómo puedo participar en la pastoral?",
+        "¿Puedo participar en la pastoral?",
+        "¿Cómo formar parte de la pastoral?",
+        "Inscribirme en la pastoral de la UCM",
+        "Inscribirme en la pastoral de la universidad",
+        "¿Puedo ser parte de la pastoral?",
+        "¿Cómo participar en la pastoral?",
+        "Participar en la pastoral de la universidad",
+        "¿Dónde puedo inscribirme en la pastoral?",
+        "¿Cómo me incorporo a la pastoral UCM?",
+        "¿Como puedo participar en la pastoral?",
+        "¿Como formar parte de la pastoral?",
+        "¿Como participar en la pastoral?",
+        "¿Donde puedo inscribirme en la pastoral?"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

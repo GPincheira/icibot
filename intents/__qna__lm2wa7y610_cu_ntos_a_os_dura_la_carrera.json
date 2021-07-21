@@ -1,0 +1,33 @@
+{
+  "name": "__qna__lm2wa7y610_cu_ntos_a_os_dura_la_carrera",
+  "contexts": [
+    "global"
+  ],
+  "utterances": {
+    "es": [
+      "¿Cuántos años dura la carrera?",
+      "¿Cuál es la duración de carrera?",
+      "¿Cuántos semestres tiene la carrera?",
+      "¿Por cuantos semestres debo estar en la carrera?",
+      "Necesito información sobre la cantidad de semestres de la carrera",
+      "Cantidad de semestres de la carrera",
+      "¿Cuántos años dura esta carrera?",
+      "¿Por cuantos años debo estudiar?",
+      "Información sobre la duración de carrera",
+      "¿Por cuántos años se extiende la carrera?",
+      "Salidas intermedias",
+      "¿Qué salidas intermedias tiene la carrera?",
+      "¿Cuáles son las salidas intermedias de la carrera?",
+      "¿Cuánto tiempo dura la carrera?",
+      "¿Cuanto dura la carrera?",
+      "¿Cuántos semestres dura la carrera?",
+      "¿Cuantos semestres dura la carrera?",
+      "¿Cuantos años dura la carrera?",
+      "¿Cual es la duracion de carrera?",
+      "Necesito saber la cantidad de semestres de la carrera",
+      "¿Por cuantos años se extiende la carrera?",
+      "¿Que salidas intermedias tiene la carrera?"
+    ]
+  },
+  "slots": []
+}

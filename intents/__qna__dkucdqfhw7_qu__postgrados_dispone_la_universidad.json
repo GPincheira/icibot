@@ -1,0 +1,29 @@
+{
+  "name": "__qna__dkucdqfhw7_qu__postgrados_dispone_la_universidad",
+  "contexts": [
+    "global"
+  ],
+  "utterances": {
+    "es": [
+      "¿Qué postgrados dispone la universidad?",
+      "¿Qué me puedes mostrar sobre postgrados?",
+      "¿Qué postgrados existen en la universidad?",
+      "¿Qué postgrados tiene la UCM?",
+      "¿Qué carreras de postgrados existen en la universidad?",
+      "Carreras de postgrado en UCM",
+      "Continuidad de estudios en la UCM",
+      "Continuidad de estudios luego de egresar",
+      "¿Qué postgrado puedo estudiar luego de egresar?",
+      "¿Qué carrera de postgrado puedo hacer después de egresar?",
+      "¿Que me puedes mostrar sobre postgrados?",
+      "Deseo saber sobre los postgrados",
+      "¿Donde obtengo informacion sobre los postgrados?",
+      "¿Que postgrados dispone la universidad?",
+      "¿Que postgrados existen en la universidad?",
+      "¿Que carrera de postgrado puedo hacer despues de egresar?",
+      "Información sobre los postgrados",
+      "Informacion sobre postgrados"
+    ]
+  },
+  "slots": []
+}

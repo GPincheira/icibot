@@ -1,0 +1,23 @@
+{
+  "name": "__qna__gxcarhkjjn_cu_ndo_hay_asamblea_estudiantil",
+  "contexts": [
+    "regular"
+  ],
+  "utterances": {
+    "es": [
+      "¿Cuándo hay asamblea estudiantil?",
+      "Fechas de las próximas asambleas estudiantiles",
+      "Información sobre asambleas de estudiantes",
+      "¿Cuál es la próxima asamblea estudiantil?",
+      "Necesito saber las fechas de asambleas estudiantiles",
+      "¿Cuándo es la próxima asamblea?",
+      "Fecha y horario de la asamblea estudiantil",
+      "¿Cuando hay asamblea estudiantil?",
+      "Fechas de las proximas asambleas estudiantiles",
+      "Informacion sobre asambleas de estudiantes",
+      "¿Cuando es la proxima asamblea?",
+      "¿Cuándo es la siguiente asamblea de estudiantes?"
+    ]
+  },
+  "slots": []
+}

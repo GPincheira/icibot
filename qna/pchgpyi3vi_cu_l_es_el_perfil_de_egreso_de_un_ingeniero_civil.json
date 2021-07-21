@@ -1,0 +1,39 @@
+{
+  "id": "pchgpyi3vi_cu_l_es_el_perfil_de_egreso_de_un_ingeniero_civil",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "es": [
+        "El egresado/a de Ingeniería Civil Informática de la Universidad Católica del Maule, es un profesional con un marcado sello valórico cristiano y compromiso social. Su sólida formación en ciencias básicas, ciencias de la ingeniería y razonamiento disciplinario  lo capacita para concebir, diseñar, implementar y operar  proyectos informáticos en contextos profesionales de diversa índole, tanto a nivel regional como nacional. (http://www.eici.ucm.cl/?page_id=4302)"
+      ]
+    },
+    "questions": {
+      "es": [
+        "¿Cuál es el perfil de egreso de un Ingeniero Civil Informático?",
+        "Revisar nuestro perfil de egreso",
+        "¿Dónde puedo ver el perfil de egreso de la carrera?",
+        "Perfil de egreso de los ingenieros civiles en informática",
+        "Perfil de egreso de nuestra carrera",
+        "¿Cuál es el perfil de egreso de nuestros estudiantes?",
+        "Necesito saber el perfil de egreso de la carrera",
+        "¿Cómo es el perfil de egreso de la carrera?",
+        "¿Cuál es el perfil de egreso de ICI?",
+        "Información sobre el perfil de egreso",
+        "Necesito saber el perfil de egreso",
+        "Deseo conocer el perfil de egreso de la carrera",
+        "¿Cual es el perfil de egreso de ICI?",
+        "¿Donde puedo ver el perfil de egreso de la carrera?",
+        "¿Cual es el perfil de egreso de un Ingeniero Civil Informatico?",
+        "¿Cual es el perfil de egreso de nuestros estudiantes?",
+        "¿Como es el perfil de egreso de la carrera?",
+        "Conocer el perfil de egreso"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "version": "0.0.1",
+  "catchAll": {
+    "next": []
+  },
+  "startNode": "entry",
+  "skillData": {
+    "fromAddress": "resid7bio_g@hotmail.com",
+    "toAddress": "{{session.slots.correo.value}}",
+    "subjectElement": "builtin_text-iqFgsi",
+    "contentElement": "builtin_text-9EVLeF"
+  },
+  "nodes": [
+    {
+      "name": "entry",
+      "onEnter": [
+        "basic-skills/send_email {\"fromAddress\":\"resid7bio_g@hotmail.com\",\"toAddress\":\"{{session.slots.correo.value}}\",\"subjectElement\":\"builtin_text-iqFgsi\",\"contentElement\":\"builtin_text-9EVLeF\"}"
+      ],
+      "next": [
+        {
+          "condition": "true",
+          "node": "#"
+        }
+      ],
+      "id": "142265"
+    }
+  ]
+}

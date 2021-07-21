@@ -1,0 +1,101 @@
+{
+  "version": "0.0.1",
+  "catchAll": {
+    "next": []
+  },
+  "startNode": "entry",
+  "skillData": {
+    "randomId": "c1d60qt091",
+    "contentId": "builtin_single-choice-V80qm-",
+    "invalidContentId": "",
+    "keywords": {
+      "CAE": [
+        "CAE",
+        "Credito con Aval del Estado (CAE)"
+      ],
+      "FSCU": [
+        "FSCU",
+        "Fondo Solidario de Educación Superior (FSCU)"
+      ],
+      "Internos": [
+        "Internos",
+        "Créditos internos UCM"
+      ]
+    },
+    "config": {
+      "nbMaxRetries": 3,
+      "repeatChoicesOnInvalid": false,
+      "variableName": ""
+    }
+  },
+  "nodes": [
+    {
+      "name": "entry",
+      "onEnter": [
+        "say #!builtin_single-choice-V80qm- {\"skill\":\"choice\"}"
+      ],
+      "next": [
+        {
+          "condition": "true",
+          "node": "parse"
+        }
+      ],
+      "id": "334589"
+    },
+    {
+      "name": "parse",
+      "onReceive": [
+        "basic-skills/choice_parse_answer {\"randomId\":\"c1d60qt091\",\"contentId\":\"builtin_single-choice-V80qm-\",\"invalidContentId\":\"\",\"keywords\":{\"CAE\":[\"CAE\",\"Credito con Aval del Estado (CAE)\"],\"FSCU\":[\"FSCU\",\"Fondo Solidario de Educación Superior (FSCU)\"],\"Internos\":[\"Internos\",\"Créditos internos UCM\"]},\"config\":{\"nbMaxRetries\":3,\"repeatChoicesOnInvalid\":false,\"variableName\":\"\"}}"
+      ],
+      "next": [
+        {
+          "condition": "temp['skill-choice-valid-c1d60qt091'] === true",
+          "node": "#"
+        },
+        {
+          "condition": "true",
+          "node": "invalid"
+        }
+      ],
+      "triggers": [
+        {
+          "conditions": [
+            {
+              "id": "always"
+            }
+          ]
+        }
+      ],
+      "onEnter": [],
+      "id": "544680"
+    },
+    {
+      "name": "invalid",
+      "onEnter": [
+        "basic-skills/choice_invalid_answer {\"randomId\":\"c1d60qt091\"}"
+      ],
+      "next": [
+        {
+          "condition": "Number(temp['skill-choice-invalid-count-c1d60qt091']) > Number(3)",
+          "node": "#"
+        },
+        {
+          "condition": "true",
+          "node": "sorry"
+        }
+      ],
+      "id": "483484"
+    },
+    {
+      "name": "sorry",
+      "onEnter": [],
+      "next": [
+        {
+          "condition": "true",
+          "node": "parse"
+        }
+      ],
+      "id": "665183"
+    }
+  ]
+}

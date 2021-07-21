@@ -1,0 +1,33 @@
+{
+  "id": "gxcarhkjjn_cu_ndo_hay_asamblea_estudiantil",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "regular"
+    ],
+    "enabled": true,
+    "answers": {
+      "es": [
+        "Las asambleas estudintiles son instancias de conversación y toma de decisiones entre los estudiantes de la universidad. Las próximas asambles serán:\n- 12 de Julio, 14:00 a 15:30\n- 16 de Agosto, 14:00 a 15:30\n- 7 de Septiembre, 14:00 a 15:30\n- 20 de Octubre, 14:00 a 15:30\n- 11 de Noviembre, 14:00 a 15:30\n- 10 de Diciembre, 14:00 a 15:30"
+      ]
+    },
+    "questions": {
+      "es": [
+        "¿Cuándo hay asamblea estudiantil?",
+        "Fechas de las próximas asambleas estudiantiles",
+        "Información sobre asambleas de estudiantes",
+        "¿Cuál es la próxima asamblea estudiantil?",
+        "Necesito saber las fechas de asambleas estudiantiles",
+        "¿Cuándo es la próxima asamblea?",
+        "Fecha y horario de la asamblea estudiantil",
+        "¿Cuando hay asamblea estudiantil?",
+        "Fechas de las proximas asambleas estudiantiles",
+        "Informacion sobre asambleas de estudiantes",
+        "¿Cuando es la proxima asamblea?",
+        "¿Cuándo es la siguiente asamblea de estudiantes?"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

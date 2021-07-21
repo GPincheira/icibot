@@ -1,0 +1,36 @@
+{
+  "id": "6hzg5woiv3_en_qu__consiste_la_pr_ctica_profesional",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "regular"
+    ],
+    "enabled": true,
+    "answers": {
+      "es": [
+        "La práctica profesional es una instancia en que el estudiante formará parte de una empresa externa a la universidad, y tiene por finalidad integrar las distintas disciplinas y ejercer funciones propias de un profesional con responsabilidades limitadas a su condición de alumno en práctica."
+      ]
+    },
+    "questions": {
+      "es": [
+        "¿En qué consiste la práctica profesional?",
+        "¿Qué es la práctica profesional?",
+        "Necesito información sobre la práctica profesional",
+        "¿Qué se hace en la práctica?",
+        "¿De qué trata la práctica profesional?",
+        "¿Qué es la práctica?",
+        "¿Qué debo hacer en mi practica profesional?",
+        "¿Qué funciones cumpliré en mi práctica profesional?",
+        "¿Dónde debo rendir la práctica profesional?",
+        "Información sobre que es la práctica",
+        "¿Que se hace en la practica?",
+        "¿Que es la practica profesional?",
+        "Informacion sobre la practica profesional",
+        "¿En que consiste la practica profesional?",
+        "¿Donde debo rendir la practica profesional?"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

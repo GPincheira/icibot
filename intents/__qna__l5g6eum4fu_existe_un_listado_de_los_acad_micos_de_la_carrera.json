@@ -1,0 +1,29 @@
+{
+  "name": "__qna__l5g6eum4fu_existe_un_listado_de_los_acad_micos_de_la_carrera",
+  "contexts": [
+    "global"
+  ],
+  "utterances": {
+    "es": [
+      "¿Existe un listado de los académicos de la carrera?",
+      "¿Dónde puedo revisar los académicos de la carrera?",
+      "Revisar los profesores de la carrera",
+      "Planta académica de la carrera",
+      "¿Cuáles son los profesores de Ingeniería Civil Informática?",
+      "¿Dónde puedo ver los profesores de mis asignaturas?",
+      "¿Qué página tiene la planta académica de la carrera?",
+      "Quiero ver el listado de profesores de la carrera",
+      "¿Cuáles son los profesores de planta de la carrera?",
+      "¿Cuáles son los profesores part-time de la carrera?",
+      "Necesito conocer el listado de academicos de la carrera",
+      "Deseo ver el listado de profesores de la carrera",
+      "¿Donde busco los academicos de la carrera?",
+      "¿Cuales son los profesores de Ingenieria Civil Informatica?",
+      "¿Que pagina tiene la planta academica de la carrera?",
+      "¿Donde puedo revisar los academicos de la carrera?",
+      "Planta academica de la carrera",
+      "¿Donde puedo ver los profesores de mis asignaturas?"
+    ]
+  },
+  "slots": []
+}

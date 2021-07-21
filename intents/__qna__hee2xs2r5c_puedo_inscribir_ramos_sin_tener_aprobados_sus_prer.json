@@ -1,0 +1,25 @@
+{
+  "name": "__qna__hee2xs2r5c_puedo_inscribir_ramos_sin_tener_aprobados_sus_prer",
+  "contexts": [
+    "regular"
+  ],
+  "utterances": {
+    "es": [
+      "¿Puedo inscribir ramos sin tener aprobados sus prerrequisitos?",
+      "¿Puedo tomar un ramo sin su prerrequisito?",
+      "Inscribir un ramo cuando reprobé el anterior",
+      "¿Cómo inscribir un ramo que reprobé el anterior?",
+      "Tomar una asignatura sin haber aprobado su antecesora",
+      "Tomar un ramo sin haber aprobado su antecesor",
+      "¿Cómo realizar inscripción sin prerrequisito?",
+      "¿Es posible inscribir una asignatura sin su prerequisito?",
+      "Toma de asignaturas sin prerrequisitos",
+      "Inscripción de ramos sin aprobar su prerrequisito",
+      "Deseo saber sobre la inscripcion de ramos sin prerrequisitos",
+      "¿Como inscribir un ramo que reprobe el anterior?",
+      "¿Como realizar inscripcion sin prerrequisito?",
+      "Inscripcion de ramos sin aprobar su prerrequisito"
+    ]
+  },
+  "slots": []
+}

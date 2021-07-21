@@ -1,0 +1,29 @@
+{
+  "name": "__qna__ljuw4yg9vy_d_nde_puedo_ver_mi_horario",
+  "contexts": [
+    "regular"
+  ],
+  "utterances": {
+    "es": [
+      "¿Dónde puedo ver mi horario?",
+      "Necesito revisar el horario de mis asignaturas",
+      "Necesito ver mi horario para el semestre",
+      "¿Dónde puedo revisar el horario de mis asignaturas?",
+      "¿Cómo puedo ver el horario de mis ramos?",
+      "¿Cómo puedo ver a que hora tengo cada clase?",
+      "¿Dónde encuentro mis horarios?",
+      "¿Cómo puedo revisar mi horario?",
+      "¿En qué sitio están mis horarios?",
+      "¿Dónde puedo encontrar mis horarios?",
+      "Deseo ver mis horarios",
+      "¿Donde busco mis horarios?",
+      "¿Donde puedo ver mi horario?",
+      "¿Como puedo conocer mis horarios?",
+      "¿Donde puedo revisar el horario de mis asignaturas?",
+      "¿Como puedo ver el horario de mis ramos?",
+      "¿En que sitio estan mis horarios?",
+      "¿Donde puedo encontrar mis horarios?"
+    ]
+  },
+  "slots": []
+}

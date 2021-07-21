@@ -1,0 +1,38 @@
+{
+  "id": "0bb6ic3m9p_que_es_la_t_sis",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "regular"
+    ],
+    "enabled": true,
+    "answers": {
+      "es": [
+        "La tesis es un trabajo de investigación o aplicación que debes realizar al término de tu carrera universitaria. La tesis amplía o profundiza en un área, aportando una novedad o una revisión crítica, aplicando lo aprendido a lo largo de la carrera."
+      ]
+    },
+    "questions": {
+      "es": [
+        "¿Qué es la tesis?",
+        "¿En que consiste la tésis?",
+        "Tesis para obtener mi título profesional",
+        "¿Cómo debo realizar mi tesis?",
+        "¿Para que se realiza la tésis?",
+        "Quisiera saber sobre la tesis para obtener el título",
+        "Información sobre la tesis para ser ingeniero civil informático",
+        "¿Qué es una tesis?",
+        "Realización de la tesis",
+        "¿Qué es la tesis de ICI?",
+        "¿Que es la tesis?",
+        "¿De que trata la tesis?",
+        "Quiero conocer sobre las tesis",
+        "Deseo obtener información sobre la tesis",
+        "¿En qué consiste la tesis?",
+        "¿Como debo realizar mi tesis?",
+        "Informacion sobre la tesis para ser ingeniero civil informatico"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

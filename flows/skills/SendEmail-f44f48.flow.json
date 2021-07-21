@@ -1,0 +1,28 @@
+{
+  "version": "0.0.1",
+  "catchAll": {
+    "next": []
+  },
+  "startNode": "entry",
+  "skillData": {
+    "fromAddress": "resid7bio_g@hotmail.com",
+    "toAddress": "german1234esteban56@gmail.com",
+    "subjectElement": "builtin_text-fuEIb4",
+    "contentElement": "builtin_text-2W8tWL"
+  },
+  "nodes": [
+    {
+      "name": "entry",
+      "onEnter": [
+        "basic-skills/send_email {\"fromAddress\":\"resid7bio_g@hotmail.com\",\"toAddress\":\"german1234esteban56@gmail.com\",\"subjectElement\":\"builtin_text-fuEIb4\",\"contentElement\":\"builtin_text-2W8tWL\"}"
+      ],
+      "next": [
+        {
+          "condition": "true",
+          "node": "#"
+        }
+      ],
+      "id": "392655"
+    }
+  ]
+}

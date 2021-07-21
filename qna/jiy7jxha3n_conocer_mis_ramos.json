@@ -1,0 +1,35 @@
+{
+  "id": "jiy7jxha3n_conocer_mis_ramos",
+  "data": {
+    "action": "redirect",
+    "contexts": [
+      "regular"
+    ],
+    "enabled": true,
+    "answers": {
+      "es": []
+    },
+    "questions": {
+      "es": [
+        "Conocer mis ramos",
+        "Ramos de cada semestre",
+        "Asignaturas de la carrera",
+        "¿Cuáles son los ramos de Ingeniería Civil Informática?",
+        "¿Qué ramos tendré en mi malla?",
+        "Ramos o asignaturas que existen en la carrera",
+        "Conocer más sobre las asignaturas que debo cursar",
+        "Quiero ver los ramos",
+        "Saber más sobre mis asignaturas",
+        "Obtener mayor información de mis ramos",
+        "Deseo conocer mis asignaturas",
+        "¿Cuales son los ramos de Ingeniería Civil Informática?",
+        "¿Que ramos tendre en mi malla?",
+        "Conocer mas sobre las asignaturas que debo cursar",
+        "Información sobre mis asignaturas ",
+        "Informacion sobre los ramos de la carrera"
+      ]
+    },
+    "redirectFlow": "Conocer-ramos.flow.json",
+    "redirectNode": "choice-9b1d32"
+  }
+}

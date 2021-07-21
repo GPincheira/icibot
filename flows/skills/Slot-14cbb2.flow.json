@@ -1,0 +1,109 @@
+{
+  "version": "0.0.1",
+  "catchAll": {
+    "next": []
+  },
+  "startNode": "check-if-extracted",
+  "skillData": {
+    "retryAttempts": 3,
+    "contentElement": "builtin_text--USv_8",
+    "notFoundElement": "builtin_text-640WyZ",
+    "turnExpiry": -1,
+    "validationAction": null,
+    "intent": "decir-nombre",
+    "slotName": "nombre",
+    "entities": [
+      "any"
+    ]
+  },
+  "nodes": [
+    {
+      "name": "slot-extract",
+      "onEnter": [
+        "say #!builtin_text--USv_8 {}"
+      ],
+      "onReceive": [
+        "basic-skills/slot_fill {\"slotName\":\"nombre\",\"entities\":\"any\", \"turnExpiry\":-1}"
+      ],
+      "next": [
+        {
+          "condition": "session.slots['nombre'] && (temp.valid === undefined || temp.valid == \"true\")",
+          "node": "extracted"
+        },
+        {
+          "condition": "true",
+          "node": "not-extracted"
+        }
+      ],
+      "id": "542866"
+    },
+    {
+      "name": "extracted",
+      "onEnter": [
+        "builtin/setVariable {\"type\":\"temp\",\"name\":\"extracted\",\"value\":\"true\"}"
+      ],
+      "next": [
+        {
+          "condition": "true",
+          "node": "#"
+        }
+      ],
+      "id": "610081"
+    },
+    {
+      "name": "not-extracted",
+      "onEnter": [
+        "basic-skills/slot_not_found {\"retryAttempts\":\"3\"}",
+        "say #!builtin_text-640WyZ {}"
+      ],
+      "onReceive": [
+        "basic-skills/slot_fill {\"slotName\":\"nombre\",\"entities\":\"any\", \"turnExpiry\":-1}"
+      ],
+      "next": [
+        {
+          "condition": "session.slots['nombre'] && (temp.valid === undefined || temp.valid == \"true\")",
+          "node": "extracted"
+        },
+        {
+          "condition": "temp.notExtracted == \"true\"",
+          "node": "#"
+        },
+        {
+          "condition": "true",
+          "node": "not-extracted"
+        }
+      ],
+      "id": "919713"
+    },
+    {
+      "name": "check-if-extracted",
+      "onEnter": [
+        "basic-skills/slot_update_contexts {\"intentName\":\"decir-nombre\"}"
+      ],
+      "next": [
+        {
+          "condition": "session.slots['nombre'] !== undefined",
+          "node": "already-extracted"
+        },
+        {
+          "condition": "true",
+          "node": "slot-extract"
+        }
+      ],
+      "id": "780824"
+    },
+    {
+      "name": "already-extracted",
+      "onEnter": [
+        "builtin/setVariable {\"type\":\"temp\",\"name\":\"alreadyExtracted\",\"value\":\"true\"}"
+      ],
+      "next": [
+        {
+          "condition": "true",
+          "node": "#"
+        }
+      ],
+      "id": "888285"
+    }
+  ]
+}

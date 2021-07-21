@@ -1,0 +1,244 @@
+{
+  "version": "0.0.1",
+  "catchAll": {},
+  "startNode": "choice-1e606a-copy",
+  "description": "",
+  "nodes": [
+    {
+      "id": "598920b35a",
+      "type": "skill-call",
+      "skill": "Slot",
+      "name": "Slot-14cbb2",
+      "flow": "skills/Slot-14cbb2.flow.json",
+      "next": [
+        {
+          "caption": "On extracted",
+          "condition": "temp.extracted == \"true\"",
+          "node": "Slot-ec00f1"
+        },
+        {
+          "caption": "On not found",
+          "condition": "temp.notExtracted == \"true\"",
+          "node": "node-7250"
+        },
+        {
+          "caption": "On already extracted",
+          "condition": "temp.alreadyExtracted == \"true\"",
+          "node": "Slot-ec00f1"
+        }
+      ],
+      "onEnter": null,
+      "onReceive": null
+    },
+    {
+      "id": "35b0f8ffac",
+      "name": "node-7250",
+      "next": [
+        {
+          "condition": "true",
+          "node": "Slot-14cbb2"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-Gmm51Y"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "147205d79c",
+      "type": "skill-call",
+      "skill": "Slot",
+      "name": "Slot-ec00f1",
+      "flow": "skills/Slot-ec00f1.flow.json",
+      "next": [
+        {
+          "caption": "On extracted",
+          "condition": "temp.extracted == \"true\"",
+          "node": "SendEmail-f44f48"
+        },
+        {
+          "caption": "On not found",
+          "condition": "temp.notExtracted == \"true\"",
+          "node": "node-3d5d"
+        },
+        {
+          "caption": "On already extracted",
+          "condition": "temp.alreadyExtracted == \"true\"",
+          "node": "SendEmail-f44f48"
+        }
+      ],
+      "onEnter": null,
+      "onReceive": null
+    },
+    {
+      "id": "4816ec4f17",
+      "name": "node-3d5d",
+      "next": [
+        {
+          "condition": "true",
+          "node": "Slot-ec00f1"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-Gmm51Y"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "c4926273eb",
+      "type": "skill-call",
+      "skill": "SendEmail",
+      "name": "SendEmail-f44f48",
+      "flow": "skills/SendEmail-f44f48.flow.json",
+      "next": [
+        {
+          "caption": "On success",
+          "condition": "temp.success",
+          "node": "choice-ce8230"
+        },
+        {
+          "caption": "On failure",
+          "condition": "!temp.success",
+          "node": "node-c3c8"
+        }
+      ],
+      "onEnter": null,
+      "onReceive": null
+    },
+    {
+      "id": "d398b74856",
+      "type": "skill-call",
+      "skill": "choice",
+      "name": "choice-ce8230",
+      "flow": "skills/choice-ce8230.flow.json",
+      "next": [
+        {
+          "caption": "User picked [Si]",
+          "condition": "temp['skill-choice-ret-j8ip5ma9b1'] == \"Si\"",
+          "node": "SendEmail-b32d4c"
+        },
+        {
+          "caption": "User picked [No]",
+          "condition": "temp['skill-choice-ret-j8ip5ma9b1'] == \"No\"",
+          "node": "node-572f"
+        },
+        {
+          "caption": "On failure",
+          "condition": "true",
+          "node": "node-572f"
+        }
+      ],
+      "onEnter": null,
+      "onReceive": null
+    },
+    {
+      "id": "207eb5c744",
+      "name": "node-c3c8",
+      "next": [
+        {
+          "condition": "true",
+          "node": "END"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-_HGdkD"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "95ab709cc4",
+      "type": "skill-call",
+      "skill": "SendEmail",
+      "name": "SendEmail-b32d4c",
+      "flow": "skills/SendEmail-b32d4c.flow.json",
+      "next": [
+        {
+          "caption": "On success",
+          "condition": "temp.success",
+          "node": "node-572f"
+        },
+        {
+          "caption": "On failure",
+          "condition": "!temp.success",
+          "node": "node-572f"
+        }
+      ],
+      "onEnter": null,
+      "onReceive": null
+    },
+    {
+      "id": "413a697180",
+      "name": "node-572f",
+      "next": [
+        {
+          "condition": "true",
+          "node": "END"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-vZcygq"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "9392af449c",
+      "type": "skill-call",
+      "skill": "choice",
+      "name": "choice-1e606a-copy",
+      "flow": "skills/choice-1e606a.flow.json",
+      "next": [
+        {
+          "caption": "User picked [Si]",
+          "condition": "temp['skill-choice-ret-8tg6ir79ft'] == \"Si\"",
+          "node": "node-c316"
+        },
+        {
+          "caption": "User picked [No]",
+          "condition": "temp['skill-choice-ret-8tg6ir79ft'] == \"No\"",
+          "node": "END"
+        },
+        {
+          "caption": "On failure",
+          "condition": "true",
+          "node": "node-4ca0"
+        }
+      ],
+      "onEnter": null,
+      "onReceive": null
+    },
+    {
+      "id": "89db04c088",
+      "name": "node-4ca0",
+      "next": [
+        {
+          "condition": "true",
+          "node": "choice-1e606a-copy"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-V7t8Wh"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "30e80ed0b5",
+      "name": "node-c316",
+      "next": [
+        {
+          "condition": "true",
+          "node": "Slot-14cbb2"
+        }
+      ],
+      "onEnter": [
+        "basic-skills/slot_reset {\"slotName\":\"nombre\"}"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    }
+  ]
+}

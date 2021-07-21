@@ -1,0 +1,27 @@
+{
+  "name": "__qna__erofhdi249_que_talleres_extraprogramaticos_tiene_la_universid",
+  "contexts": [
+    "regular"
+  ],
+  "utterances": {
+    "es": [
+      "¿Qué talleres extra programáticos tiene la universidad?",
+      "¿Existen talleres en la universidad?",
+      "¿Puedo asistir a algún taller extraprogramatico?",
+      "Muéstrame los talleres a los que podría asistir",
+      "Quiero obtener información sobre talleres en la universidad",
+      "¿Cuáles son los talleres que existen en la UCM?",
+      "¿Cuáles son los talleres a los que puedo asistir?",
+      "¿A qué talleres puedo ir en la universidad?",
+      "¿Existe algún taller al que pueda ir?",
+      "¿Qué taller puedo tomar en la universidad?",
+      "¿Que talleres extra programaticos tiene la universidad?",
+      "Muestrame los talleres a los que podria asistir",
+      "¿Existe algun taller al que pueda ir?",
+      "¿Puedo asistir a algun taller extraprogramático?",
+      "¿Cuales son los talleres que existen en la UCM?",
+      "¿A que talleres puedo ir en la universidad?"
+    ]
+  },
+  "slots": []
+}

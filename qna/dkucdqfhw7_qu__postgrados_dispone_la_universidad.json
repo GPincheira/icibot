@@ -1,0 +1,39 @@
+{
+  "id": "dkucdqfhw7_qu__postgrados_dispone_la_universidad",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "es": [
+        "Hay una amplia cantidad de postgrados en la universidad, los que puedes conocer en el siguiente link: http://www.vrip.ucm.cl/postgrados/ . Dentro de ellos puedes encontrar el Magíster en Ciencias de la Computación"
+      ]
+    },
+    "questions": {
+      "es": [
+        "¿Qué postgrados dispone la universidad?",
+        "¿Qué me puedes mostrar sobre postgrados?",
+        "¿Qué postgrados existen en la universidad?",
+        "¿Qué postgrados tiene la UCM?",
+        "¿Qué carreras de postgrados existen en la universidad?",
+        "Carreras de postgrado en UCM",
+        "Continuidad de estudios en la UCM",
+        "Continuidad de estudios luego de egresar",
+        "¿Qué postgrado puedo estudiar luego de egresar?",
+        "¿Qué carrera de postgrado puedo hacer después de egresar?",
+        "¿Que me puedes mostrar sobre postgrados?",
+        "Deseo saber sobre los postgrados",
+        "¿Donde obtengo informacion sobre los postgrados?",
+        "¿Que postgrados dispone la universidad?",
+        "¿Que postgrados existen en la universidad?",
+        "¿Que carrera de postgrado puedo hacer despues de egresar?",
+        "Información sobre los postgrados",
+        "Informacion sobre postgrados"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

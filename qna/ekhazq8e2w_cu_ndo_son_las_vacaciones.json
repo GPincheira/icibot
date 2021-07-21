@@ -1,0 +1,35 @@
+{
+  "id": "ekhazq8e2w_cu_ndo_son_las_vacaciones",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "es": [
+        "El periodo de vacaciones de invierno 2021 es entre el 19 de Julio y 6 de Agosto , y  las vacaciones de verano inician el 20 de Diciembre. Puedes ver estas fechas en el calendario académico: https://portal.ucm.cl/la-universidad/calendario-ucm"
+      ]
+    },
+    "questions": {
+      "es": [
+        "¿Cuándo son las vacaciones?",
+        "¿Cuál es el periodo de vacaciones?",
+        "¿En qué fechas son las vacaciones?",
+        "¿En que fecha hay vacaciones?",
+        "Vacaciones de invierno",
+        "Vacaciones de verano",
+        "¿Cuándo finalizan las clases?",
+        "¿Cuándo son las vacaciones de invierno?",
+        "¿Cuándo son las vacaciones de verano?",
+        "¿Cual es el periodo de vacaciones?",
+        "¿Cuando son las vacaciones?",
+        "¿En que fechas son las vacaciones?",
+        "¿Cuando finalizan las clases?",
+        "¿Cuando son las vacaciones de invierno?"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

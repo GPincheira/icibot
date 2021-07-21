@@ -1,0 +1,38 @@
+{
+  "name": "__qna__z0ysaga488_c_mo_realizo_el_pago_de_mis_cuotas_de_arancel",
+  "contexts": [
+    "global"
+  ],
+  "utterances": {
+    "es": [
+      "¿Cómo realizo el pago de mis cuotas de arancel?",
+      "¿Dónde debo pagar mis cuotas?",
+      "¿Dónde pago el arancel?",
+      "¿Dónde pagar las cuotas de arancel?",
+      "¿Cómo debo pagar las cuotas de arancel?",
+      "¿Qué hago para pagar las cuotas de arancel?",
+      "¿De qué manera pago mis cuotas de la carrera?",
+      "Información sobre los pagos de cuotas de arancel",
+      "Modalidades de pago para el arancel",
+      "Modalidad de pago para el pago de cuotas",
+      "¿En qué ruta puedo pagar mis cuotas?",
+      "¿En que ruta puedo pagar mis cuotas?",
+      "¿Donde pago el arancel?",
+      "¿Como realizo el pago de mis cuotas de arancel?",
+      "¿Como puedo pagar mis cuotas de arancel?",
+      "Quiero pagar mis cuotas de arancel",
+      "¿Donde debo pagar mis cuotas?",
+      "¿Que hago para pagar las cuotas de arancel?",
+      "¿De que manera pago mis cuotas de la carrera?",
+      "Informacion sobre los pagos de cuotas de arancel",
+      "¿Dónde debo pagar mi mensualidad?",
+      "¿Cómo puedo pagar mi mensualidad?",
+      "¿Como puedo pagar mi mensualidad?",
+      "¿Donde pago mis mensualidades?",
+      "¿Como obtengo el cupón de pago de la mensualidad?",
+      "¿Cómo obtengo el cupón de pago de cuotas de arancel?",
+      "¿De dónde puedo descargar un cupón de pago de mensualidad?"
+    ]
+  },
+  "slots": []
+}

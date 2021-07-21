@@ -1,0 +1,38 @@
+{
+  "id": "g6inlfbkgi_existen_becas_de_prestaci_n_laboral",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "regular"
+    ],
+    "enabled": true,
+    "answers": {
+      "es": [
+        "En la universidad existen muchas becas de prestación laboral. Puedes conocerlas y postular a ellas entre el 9 y 13 de Agosto en el siguiente link http://www.portalalumnos.ucm.cl/portalal/blaboral/postula_beca_lab.php"
+      ]
+    },
+    "questions": {
+      "es": [
+        "¿Existen becas de prestación laboral?",
+        "¿Puedo trabajar dentro de la universidad?",
+        "¿Puedo optar a un trabajo en la UCM?",
+        "Quisiera saber sobre las becas de prestación laboral",
+        "¿Que becas laborales existen?",
+        "Becas laborales en la universidad",
+        "¿Puedo tener una beca laboral en la universidad?",
+        "¿Qué becas laborales existen?",
+        "¿Qué becas de trabajo existen en la UCM?",
+        "Obtener una beca laboral en la universidad",
+        "Deseo saber sobre las becas laborales",
+        "¿Donde busco sobre las becas laborales?",
+        "¿Existen becas de prestacion laboral?",
+        "Quisiera saber sobre las becas de prestacion laboral",
+        "¿Dónde busco sobre las becas laborales?",
+        "Información sobre beca laboral",
+        "Informacion sobre las becas laborales"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

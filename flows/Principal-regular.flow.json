@@ -1,0 +1,34 @@
+{
+  "version": "0.0.1",
+  "catchAll": {},
+  "startNode": "entry",
+  "description": "",
+  "nodes": [
+    {
+      "id": "bf99a07aeb",
+      "name": "entry",
+      "onEnter": [
+        "builtin/resetContext {}",
+        "builtin/appendContext {\"contexts\":\"global,regular\",\"ttl\":\"100\"}"
+      ],
+      "onReceive": null,
+      "next": [
+        {
+          "condition": "true",
+          "node": "node-b3ad"
+        }
+      ],
+      "type": "standard"
+    },
+    {
+      "id": "44f48eb745",
+      "name": "node-b3ad",
+      "next": [],
+      "onEnter": [
+        "say #!builtin_text-z6ktmC"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    }
+  ]
+}

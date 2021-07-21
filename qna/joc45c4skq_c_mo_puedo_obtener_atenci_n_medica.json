@@ -1,0 +1,44 @@
+{
+  "id": "joc45c4skq_c_mo_puedo_obtener_atenci_n_medica",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "regular"
+    ],
+    "enabled": true,
+    "answers": {
+      "es": [
+        "Cualquier alumno de la UCM puede solicitar atención medica dirigiéndose al al Departamento de Salud Estudiantil, o contactando vía correo a sgranada@ucm.cl o vía llamada telefónica al 71-2203389. Allí se cuenta con profesionales y técnicos en el área de medicina, enfermería, odontología, psicología, kinesiología y nutrición"
+      ]
+    },
+    "questions": {
+      "es": [
+        "¿Cómo puedo obtener atención medica?",
+        "¿Qué atención médica puedo recibir?",
+        "¿Tengo derecho a atención médica?",
+        "¿Tengo beneficios de salud?",
+        "¿Los estudiantes tenemos beneficios en salud?",
+        "¿Qué atenciones médicas puedo recibir?",
+        "¿Qué beneficios de salud tengo como estudiante?",
+        "La salud de los estudiantes",
+        "Necesito información sobre beneficios de salud",
+        "Información sobre servicios médicos para estudiantes",
+        "Deseo saber sobre las atenciones medicas ",
+        "Deseo conocer sobre los beneficios de salud",
+        "¿Que atencion medica puedo recibir?",
+        "Como puedo obtener atencion medica?",
+        "Cómo puedo solicitar atención medica?",
+        "Como puedo solicitar atencion medica?",
+        "¿Que beneficios de salud tengo como estudiante?",
+        "Informacion sobre servicios medicos para estudiantes",
+        "¿Como puedo contactar al departamento de salud estudiantil? ",
+        "¿Cómo puedo contactar al departamento de salud estudiantil? ",
+        "Contactar a salud estudiantil",
+        "¿Con que clínica tiene convenio la universidad?",
+        "¿Con que clinicas tiene convenio la universidad?"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

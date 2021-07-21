@@ -1,0 +1,121 @@
+{
+  "version": "0.0.1",
+  "catchAll": {
+    "next": []
+  },
+  "startNode": "entry",
+  "skillData": {
+    "randomId": "p2rsgm5iv3",
+    "contentId": "builtin_single-choice-MD0U2l",
+    "invalidContentId": "",
+    "keywords": {
+      "Externo": [
+        "Externo",
+        "No soy estudiante"
+      ],
+      "Primero": [
+        "Primero",
+        "Primer año"
+      ],
+      "Segundo": [
+        "Segundo",
+        "Segundo año"
+      ],
+      "Tercero": [
+        "Tercero",
+        "Tercer año"
+      ],
+      "Cuarto": [
+        "Cuarto",
+        "Cuarto año"
+      ],
+      "Quinto": [
+        "Quinto",
+        "Quinto año"
+      ],
+      "Sexto": [
+        "Sexto",
+        "Sexto año o superiores"
+      ],
+      "Egresado": [
+        "Egresado",
+        "Ya egresé"
+      ]
+    },
+    "config": {
+      "nbMaxRetries": 3,
+      "repeatChoicesOnInvalid": false,
+      "variableName": ""
+    }
+  },
+  "nodes": [
+    {
+      "name": "entry",
+      "onEnter": [
+        "say #!builtin_single-choice-MD0U2l {\"skill\":\"choice\"}"
+      ],
+      "next": [
+        {
+          "condition": "true",
+          "node": "parse"
+        }
+      ],
+      "id": "717465"
+    },
+    {
+      "name": "parse",
+      "onReceive": [
+        "basic-skills/choice_parse_answer {\"randomId\":\"p2rsgm5iv3\",\"contentId\":\"builtin_single-choice-MD0U2l\",\"invalidContentId\":\"\",\"keywords\":{\"Externo\":[\"Externo\",\"No soy estudiante\"],\"Primero\":[\"Primero\",\"Primer año\"],\"Segundo\":[\"Segundo\",\"Segundo año\"],\"Tercero\":[\"Tercero\",\"Tercer año\"],\"Cuarto\":[\"Cuarto\",\"Cuarto año\"],\"Quinto\":[\"Quinto\",\"Quinto año\"],\"Sexto\":[\"Sexto\",\"Sexto año o superiores\"],\"Egresado\":[\"Egresado\",\"Ya egresé\"]},\"config\":{\"nbMaxRetries\":3,\"repeatChoicesOnInvalid\":false,\"variableName\":\"\"}}"
+      ],
+      "next": [
+        {
+          "condition": "temp['skill-choice-valid-p2rsgm5iv3'] === true",
+          "node": "#"
+        },
+        {
+          "condition": "true",
+          "node": "invalid"
+        }
+      ],
+      "triggers": [
+        {
+          "conditions": [
+            {
+              "id": "always"
+            }
+          ]
+        }
+      ],
+      "onEnter": [],
+      "id": "955584"
+    },
+    {
+      "name": "invalid",
+      "onEnter": [
+        "basic-skills/choice_invalid_answer {\"randomId\":\"p2rsgm5iv3\"}"
+      ],
+      "next": [
+        {
+          "condition": "Number(temp['skill-choice-invalid-count-p2rsgm5iv3']) > Number(3)",
+          "node": "#"
+        },
+        {
+          "condition": "true",
+          "node": "sorry"
+        }
+      ],
+      "id": "809197"
+    },
+    {
+      "name": "sorry",
+      "onEnter": [],
+      "next": [
+        {
+          "condition": "true",
+          "node": "parse"
+        }
+      ],
+      "id": "141613"
+    }
+  ]
+}

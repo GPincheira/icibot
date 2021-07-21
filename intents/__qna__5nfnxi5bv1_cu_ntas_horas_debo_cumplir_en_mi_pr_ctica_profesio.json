@@ -1,0 +1,27 @@
+{
+  "name": "__qna__5nfnxi5bv1_cu_ntas_horas_debo_cumplir_en_mi_pr_ctica_profesio",
+  "contexts": [
+    "regular"
+  ],
+  "utterances": {
+    "es": [
+      "¿Cuántas horas debo cumplir en mi práctica profesional?",
+      "Horas de práctica profesional",
+      "Duración de la práctica",
+      "¿Cuantás horas son de práctica?",
+      "¿Con qué horario debo cumplir en la práctica?",
+      "¿Cuantas horas debo trabajar en la práctica profesional?",
+      "Mínimo de horas en la práctica profesional",
+      "¿Qué carga horaria tendré en la práctica?",
+      "¿Cuánta carga horaria voy a tener en la práctica?",
+      "¿Con cuántas horas de trabajo podría aprobar mi práctica?",
+      "Duracion de la practica",
+      "¿Cuantas horas son de practica?",
+      "¿Con que horario debo cumplir en la practica?",
+      "¿Cuantas horas debo cumplir en mi practica profesional?",
+      "Minimo de horas en la practica profesional",
+      "¿Con cuantas horas de trabajo podria aprobar mi practica?"
+    ]
+  },
+  "slots": []
+}

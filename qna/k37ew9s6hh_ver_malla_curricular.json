@@ -1,0 +1,38 @@
+{
+  "id": "k37ew9s6hh_ver_malla_curricular",
+  "data": {
+    "action": "redirect",
+    "contexts": [
+      "regular"
+    ],
+    "enabled": true,
+    "answers": {
+      "es": []
+    },
+    "questions": {
+      "es": [
+        "Ver Malla curricular",
+        "Conocer la malla y como se compone",
+        "Conocer la malla curricular",
+        "¿Puedo obtener la malla curricular?",
+        "Quisiera ver la malla curricular",
+        "¿Cuál es la malla curricular de la carrera?",
+        "Quiero ver la malla de la carrera",
+        "Malla de Ingeniería Civil Informática",
+        "Mallas curriculares",
+        "Malla de la carrera",
+        "Deseo ver mi malla curricular",
+        "Deseo conocer mi malla curricular",
+        "Mirar la Malla curricular",
+        "Me gustaria ver la malla curricular",
+        "Me gustaría ver la malla curricular",
+        "Anhelo ver la malla curricular",
+        "¿Cual es la malla curricular de la carrera?",
+        "¿Donde encuentro la malla curricular?",
+        "¿Dónde encuentro mi malla curricular?"
+      ]
+    },
+    "redirectFlow": "Malla-curricular.flow.json",
+    "redirectNode": "choice-68f456"
+  }
+}

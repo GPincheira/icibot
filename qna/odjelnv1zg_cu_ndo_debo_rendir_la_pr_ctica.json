@@ -1,0 +1,37 @@
+{
+  "id": "odjelnv1zg_cu_ndo_debo_rendir_la_pr_ctica",
+  "data": {
+    "action": "redirect",
+    "contexts": [
+      "regular"
+    ],
+    "enabled": true,
+    "answers": {
+      "es": []
+    },
+    "questions": {
+      "es": [
+        "¿Cuándo debo rendir la práctica?",
+        "Saber más sobre cuando debo hacer la práctica profesional",
+        "Informarme sobre la fecha de la práctica profesional",
+        "¿Cuántas prácticas profesionales debo rendir?",
+        "¿Cuándo tengo que hacer mi práctica?",
+        "¿En que momento tengo que rendir la práctica?",
+        "¿Debo rendir práctica profesional?",
+        "¿Cuándo hago mi práctica profesional?",
+        "¿En qué semestre se hace la práctica?",
+        "¿En qué semestres tengo que hacer las prácticas?",
+        "¿En que semestre se hace la practica?",
+        "¿Cuando debo rendir la practica?",
+        "Informacion sobre la fecha de la practica profesional",
+        "Información sobre la fecha de la práctica profesional",
+        "Saber mas sobre cuando debo hacer la practica profesional",
+        "Informarme sobre la fecha de la practica profesional",
+        "¿Cuantas prácticas profesionales debo rendir?",
+        "¿Cuando tengo que hacer mi practica?"
+      ]
+    },
+    "redirectFlow": "Semestre-Practica.flow.json",
+    "redirectNode": "choice-1defce"
+  }
+}

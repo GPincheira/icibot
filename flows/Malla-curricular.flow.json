@@ -1,0 +1,123 @@
+{
+  "version": "0.0.1",
+  "catchAll": {},
+  "startNode": "choice-68f456",
+  "description": "",
+  "nodes": [
+    {
+      "id": "skill-68f456",
+      "type": "skill-call",
+      "skill": "choice",
+      "name": "choice-68f456",
+      "flow": "skills/choice-68f456.flow.json",
+      "next": [
+        {
+          "caption": "User picked [Innovada]",
+          "condition": "temp['skill-choice-ret-iix3hkwpln'] == \"Innovada\"",
+          "node": "node-cd0c"
+        },
+        {
+          "caption": "User picked [Objetiv...]",
+          "condition": "temp['skill-choice-ret-iix3hkwpln'] == \"Objetivos\"",
+          "node": "node-82b3"
+        },
+        {
+          "caption": "User picked [Informa...]",
+          "condition": "temp['skill-choice-ret-iix3hkwpln'] == \"Informatica\"",
+          "node": "node-b413"
+        },
+        {
+          "caption": "User picked [Ejecuci...]",
+          "condition": "temp['skill-choice-ret-iix3hkwpln'] == \"Ejecucion\"",
+          "node": "node-633c"
+        },
+        {
+          "caption": "On failure",
+          "condition": "true",
+          "node": "node-e6b3"
+        }
+      ],
+      "onEnter": null,
+      "onReceive": null
+    },
+    {
+      "id": "d3c0e31643",
+      "name": "node-cd0c",
+      "next": [
+        {
+          "condition": "true",
+          "node": "END"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_image-zCxSHQ",
+        "say #!builtin_text-NCggm2"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "7d6e79f17e",
+      "name": "node-82b3",
+      "next": [
+        {
+          "condition": "true",
+          "node": "END"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_image-j4onvI",
+        "say #!builtin_text-NCggm2"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "edf1690ba2",
+      "name": "node-b413",
+      "next": [
+        {
+          "condition": "true",
+          "node": "END"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_image-DdMR7D",
+        "say #!builtin_text-NCggm2"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "7f14a34e42",
+      "name": "node-633c",
+      "next": [
+        {
+          "condition": "true",
+          "node": "END"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_image-W2udks",
+        "say #!builtin_text-NCggm2"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "1210d3a59e",
+      "name": "node-e6b3",
+      "next": [
+        {
+          "condition": "true",
+          "node": "choice-68f456"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-V7t8Wh"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    }
+  ]
+}

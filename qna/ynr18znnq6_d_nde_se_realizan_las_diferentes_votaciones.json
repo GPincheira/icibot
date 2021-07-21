@@ -1,0 +1,39 @@
+{
+  "id": "ynr18znnq6_d_nde_se_realizan_las_diferentes_votaciones",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "regular"
+    ],
+    "enabled": true,
+    "answers": {
+      "es": [
+        "En el contexto de la pandemia, las votaciones son realizadas por vía remota, a través del portal del alumno, en el siguiente link: http://www.portalalumnos.ucm.cl/plebiscitos/index.php/plebiscito/#/"
+      ]
+    },
+    "questions": {
+      "es": [
+        "¿Dónde se realizan las diferentes votaciones?",
+        "¿Cómo se realizan las votaciones?",
+        "¿Dónde puedo votar?",
+        "¿Cómo participo en una votación?",
+        "Realizar votación sobre el centro de alumnos",
+        "¿Cómo participo de una votación?",
+        "¿Dónde puedo realizar mi voto?",
+        "Sufragar en una votación",
+        "¿Cómo participo en una elección?",
+        "¿Cómo entrego mi voto en un plebiscito?",
+        "Deseo realizar una votación",
+        "Quiero saber como realizar una votación",
+        "Deseo participar en una votación",
+        "¿Como se realizan las votaciones?",
+        "¿Donde puedo votar?",
+        "¿Donde se realizan las diferentes votaciones?",
+        "¿Como participo en una votacion?",
+        "¿Donde puedo realizar mi voto?"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

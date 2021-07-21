@@ -1,0 +1,35 @@
+{
+  "id": "khzgivxr8i_contactos_de_inter_s_en_la_universidad",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "es": [
+        "- Soporte DTI : (071) 263-3555\n- Dirección Estudiantil: 71 2203400\n- DARA: 71 2413663"
+      ]
+    },
+    "questions": {
+      "es": [
+        "Contactos de interés en la universidad",
+        "Quiero el contacto de diferentes departamentos de la universidad",
+        "¿Cómo puedo contactar con el DARA?",
+        "Información sobre el contacto del DARA",
+        "Necesito el numero telefónico del DARA",
+        "¿Cuál es el contacto del DARA?",
+        "¿Como puedo contactar con el DARA?",
+        "Informacion sobre el contacto del DARA",
+        "¿Cual es el contacto del DARA?",
+        "Necesito el numero telefonico del DARA",
+        "¿Cómo puedo contactar con dirección estudiantil?",
+        "Información sobre el contacto de dirección estudiantil",
+        "Necesito el numero telefónico de dirección estudiantil",
+        "¿Cuál es el contacto del direccion estudiantil?"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

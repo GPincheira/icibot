@@ -1,0 +1,28 @@
+{
+  "name": "__qna__bcaw2bjh55_cu_l_es_el_m_ximo_de_cr_ditos_que_se_pueden_tomar",
+  "contexts": [
+    "regular"
+  ],
+  "utterances": {
+    "es": [
+      "¿Cuál es el máximo de créditos que se pueden tomar?",
+      "Máximo de créditos por semestre",
+      "Creditaje máximo",
+      "Sobrecreditaje para el semestre",
+      "¿Puedo solicitar créditos extras?",
+      "¿Cuántos créditos puedo tener en el semestre?",
+      "Cantidad máxima de créditos para cada semestre",
+      "Cantidad máxima de créditos que puedo rendir",
+      "¿Cuántos créditos puedo tomar máximo por semestre?",
+      "Créditos máximos para este semestre",
+      "¿Cual es el maximo de creditos que se pueden tomar?",
+      "Creditos maximos para este semestre",
+      "Maximo de creditos por semestre",
+      "¿Puedo pedir creditos extras?",
+      "¿Cuantos creditos puedo tener en el semestre?",
+      "Cantidad maxima de creditos para cada semestre",
+      "¿Cuantos creditos puedo tomar maximo por semestre?"
+    ]
+  },
+  "slots": []
+}

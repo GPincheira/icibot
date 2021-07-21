@@ -1,0 +1,44 @@
+{
+  "id": "dnpqlvwny8_que_es_el_portal_del_alumno",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "es": [
+        "El portal del alumno es una plataforma que dispone la universidad, a la que accedes con tu RUT y contraseña dada por la universidad en este link: http://www.portalalumnos.ucm.cl/v2/ . Allí puedes gestionar tu carrera en general, inscribir asignaturas, revisar calificaciones, postular a beneficios, pagar tus cuotas, obtener certificados, etc."
+      ]
+    },
+    "questions": {
+      "es": [
+        "¿Qué es el portal del alumno?",
+        "¿Qué es el simbad?",
+        "¿Dónde accedo al Portal del alumno?",
+        "¿Qué puedo encontrar en el portal del alumno?",
+        "Uso del portal del alumno",
+        "¿Qué utilidad tiene el portal del alumno?",
+        "¿Para que se utiliza el portal del alumno?",
+        "¿Cómo entro al portal del alumno?",
+        "Acceder al portal del alumno",
+        "Ingresar al portal del alumno",
+        "¿Cuál es la ruta del portal del alumno?",
+        "Ruta del portal del alumno",
+        "Enlace del portal del alumno",
+        "Entrar al portal del alumno",
+        "¿Como entro al portal del alumno?",
+        "¿Cómo encuentro el enlace al portal?",
+        "¿Dónde encuentro el enlace al portal del alumno?",
+        "¿Existe algún portal donde pueda ver mis notas?",
+        "Donde puedo saber que beneficios estudiantiles tengo asignados",
+        "¿Que es el Portal del alumno?",
+        "¿Donde encuentro el enlace al portal del alumno?",
+        "¿Donde accedo al Portal del alumno?",
+        "¿Cual es la ruta del portal del alumno?"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

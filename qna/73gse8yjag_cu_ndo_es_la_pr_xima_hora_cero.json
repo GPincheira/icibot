@@ -1,0 +1,35 @@
+{
+  "id": "73gse8yjag_cu_ndo_es_la_pr_xima_hora_cero",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "regular"
+    ],
+    "enabled": true,
+    "answers": {
+      "es": [
+        "Las hora cero restantes durante este año son:\n- 27 de Julio, 17:00 a 18:30\n- 23 de Agosto, 17:00 a 18:30\n- 6 de Octubre, 17:00 a 18:30\n- 23 de Noviembre, 17:00 a 18:30\n- 13 de Diciembre, 17:00 a 18:30\nEstas son instancias de conversación dentro de la escuela entre pares y junto con académicos y autoridades."
+      ]
+    },
+    "questions": {
+      "es": [
+        "¿Cuándo es la próxima hora cero?",
+        "Fechas de las horas cero",
+        "Información sobre las hora cero",
+        "¿Qué son las hora de cero?",
+        "¿Cuáles son las hora cero?",
+        "Horas cero de este semestre",
+        "Hora cero durante este año",
+        "¿Cuántas horas cero habrán?",
+        "Necesito saber sobre la hora cero",
+        "¿Cuando es la proxima hora cero?",
+        "Informacion sobre las hora cero",
+        "¿Que son las hora de cero?",
+        "¿Cuales son las hora cero?",
+        "¿Cuantas horas cero habran?"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

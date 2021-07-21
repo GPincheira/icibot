@@ -1,0 +1,41 @@
+{
+  "id": "dx7pyhjk2p_c_mo_solicito_atenci_n_del_director_de_escuela",
+  "data": {
+    "action": "redirect",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "es": []
+    },
+    "questions": {
+      "es": [
+        "¿Cómo solicito atención del director de escuela?",
+        "Poder hablar con el director de escuela",
+        "Me gustaría contactar con el director de escuela",
+        "Quisiera tener atención del director de escuela",
+        "Poder contactar con el director de escuela",
+        "Dejar un mensaje al director",
+        "Llamar al director de escuela",
+        "Obtener el numero telefónico del director",
+        "Quiero ponerme en contacto con el director",
+        "Escribirle al director de escuela",
+        "Contactarme con el director",
+        "¿Quién es el director de escuela?",
+        "¿Cómo se llama el director de escuela?",
+        "Nombre del director de escuela",
+        "¿Cuál es el correo del directo de escuela?",
+        "¿Como contacto con el director de carrera?",
+        "¿Como solicito atencion del director de escuela?",
+        "¿Quien es el director de escuela?",
+        "Me gustaria contactar con el jefe de carrera",
+        "Quisiera solicitar atencion del director de escuela",
+        "¿Como se llama el director de escuela?",
+        "¿Cual es el correo del directo de escuela?"
+      ]
+    },
+    "redirectFlow": "Contactar-director.flow.json",
+    "redirectNode": "choice-1e606a-copy"
+  }
+}

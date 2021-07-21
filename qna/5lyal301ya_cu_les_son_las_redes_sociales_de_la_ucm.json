@@ -1,0 +1,39 @@
+{
+  "id": "5lyal301ya_cu_les_son_las_redes_sociales_de_la_ucm",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "es": [
+        "La UCM tiene varias redes sociales como facebook (facebook.com/ucatolicadelmaule), instagram (instagram.com/ucatolicamaule), twitter (twitter.com/ucatolicamaule) y canal de youtube (youtube.com/channel/UCI6mMQ5izHQa9MvWUAUV_Eg)"
+      ]
+    },
+    "questions": {
+      "es": [
+        "¿Cuáles son las redes sociales de la UCM?",
+        "¿Qué redes sociales tiene la universidad?",
+        "¿Qué redes sociales tiene la carrera?",
+        "¿La universidad tiene redes sociales?",
+        "¿La carrera tiene redes sociales?",
+        "¿En qué redes sociales puedo encontrar a la UCM?",
+        "¿En qué redes sociales puedo encontrar a la universidad?",
+        "¿La universidad tiene instagram?",
+        "¿La universidad tiene facebook?",
+        "¿La universidad tiene twitter?",
+        "¿Cuál es el instagram de la universidad?",
+        "¿Cuál es el facebook de la universidad?",
+        "¿Cuál es el twitter de la universidad?",
+        "¿Cuales son las redes sociales de la UCM?",
+        "¿En que redes sociales puedo encontrar a la UCM?",
+        "¿Que redes sociales tiene la universidad?",
+        "¿Cual es el instagram de la universidad?",
+        "¿Cual es el facebook de la universidad?"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

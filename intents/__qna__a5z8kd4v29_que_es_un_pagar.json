@@ -1,0 +1,23 @@
+{
+  "name": "__qna__a5z8kd4v29_que_es_un_pagar",
+  "contexts": [
+    "global"
+  ],
+  "utterances": {
+    "es": [
+      "¿Qué es un pagaré?",
+      "¿Qué función cumple un pagaré?",
+      "¿Para qué se utilizan los pagarés?",
+      "Necesito información sobre los pagaré",
+      "¿En que consisten los pagarés?",
+      "¿Qué es un pagaré para un crédito?",
+      "Pagarés para créditos universitarios",
+      "¿Que es un pagare?",
+      "Me gustaría saber sobre los pagarés",
+      "¿Para que se utilizan los pagares?",
+      "Necesito informacion sobre los pagare",
+      "¿Que es un pagare para un credito?"
+    ]
+  },
+  "slots": []
+}

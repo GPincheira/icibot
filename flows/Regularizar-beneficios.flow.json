@@ -1,0 +1,100 @@
+{
+  "version": "0.0.1",
+  "catchAll": {},
+  "startNode": "choice-ab451b",
+  "description": "",
+  "nodes": [
+    {
+      "id": "skill-ab451b",
+      "type": "skill-call",
+      "skill": "choice",
+      "name": "choice-ab451b",
+      "flow": "skills/choice-ab451b.flow.json",
+      "next": [
+        {
+          "caption": "User picked [CAE]",
+          "condition": "temp['skill-choice-ret-c1d60qt091'] == \"CAE\"",
+          "node": "node-aa38"
+        },
+        {
+          "caption": "User picked [FSCU]",
+          "condition": "temp['skill-choice-ret-c1d60qt091'] == \"FSCU\"",
+          "node": "node-1613"
+        },
+        {
+          "caption": "User picked [Internos]",
+          "condition": "temp['skill-choice-ret-c1d60qt091'] == \"Internos\"",
+          "node": "node-6e5b"
+        },
+        {
+          "caption": "On failure",
+          "condition": "true",
+          "node": "node-e35c"
+        }
+      ],
+      "onEnter": null,
+      "onReceive": null
+    },
+    {
+      "id": "a68820c814",
+      "name": "node-6e5b",
+      "next": [
+        {
+          "condition": "true",
+          "node": "END"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-9NT1KF",
+        "say #!builtin_text-PIPm2I"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "d68e313def",
+      "name": "node-1613",
+      "next": [
+        {
+          "condition": "true",
+          "node": "END"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-CZoxBC"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "45821ec732",
+      "name": "node-aa38",
+      "next": [
+        {
+          "condition": "true",
+          "node": "END"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-dSPBC6"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "7365ea3f9a",
+      "name": "node-e35c",
+      "next": [
+        {
+          "condition": "true",
+          "node": "choice-ab451b"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-V7t8Wh"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "2vgqlacjdq_d_nde_puedo_ver_las_certificaciones_disponibles",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "regular"
+    ],
+    "enabled": true,
+    "answers": {
+      "es": [
+        "Puedes conocer el listado de certificaciones en el sitio del Instituto de Estudios generales: https://certificaciones-eg.ucm.cl/"
+      ]
+    },
+    "questions": {
+      "es": [
+        "¿Dónde puedo ver las certificaciones disponibles?",
+        "Listado de certificaciones",
+        "¿Qué certificaciones puedo tomar?",
+        "Sitio web con el listado de certificaciones",
+        "¿Dónde puedo revisar las certificaciones disponibles?",
+        "¿Dónde puedo ver las certificaciones que puedo tomar?",
+        "¿Qué certificaciones puedo rendir?",
+        "Revisar las certificaciones que puedo tomar",
+        "¿Qué certificaciones existen?",
+        "¿Qué certificaciones podría tomar?",
+        "¿Que certificaciones puedo tomar?",
+        "Quiero conocer sobre las certificaciones",
+        "¿Donde encuentro informacion sobre las certificaciones?",
+        "¿Donde puedo ver las certificaciones disponibles?",
+        "¿Donde puedo revisar las certificaciones disponibles?",
+        "¿Que certificaciones podria tomar?",
+        "Información sobre las certificaciones",
+        "Informacion sobre las certificaciones",
+        "Deseo saber sobre las certificaciones"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

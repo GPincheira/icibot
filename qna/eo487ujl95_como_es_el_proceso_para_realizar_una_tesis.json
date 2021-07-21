@@ -1,0 +1,34 @@
+{
+  "id": "eo487ujl95_como_es_el_proceso_para_realizar_una_tesis",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "regular"
+    ],
+    "enabled": true,
+    "answers": {
+      "es": [
+        "Para la realización de una tesis, primero debes tener el ramo inscrito en el Portal del Alumno. Posteriormente debes tener un tema a trabajar, así como un profesor guía que te apoyará en esto. Luego, debes realizar el tema de la manera que adopten junto a tu guía, y al finalizar debes entregar un escrito para que la comisión evaluadora lo estudie, y finalmente se te llame a realizar tu defensa de tesis, donde debes exponer tu tema ante la comisión evaluadora."
+      ]
+    },
+    "questions": {
+      "es": [
+        "¿Cómo es el proceso para realizar una tesis?",
+        "¿Qué actividades componen la evaluación de la tesis?",
+        "¿De qué trata el proceso de realización de la tesis?",
+        "¿De que manera se evalúa una tesis?",
+        "¿Cómo se realiza la tesis?",
+        "¿Que actividades componen la tesis?",
+        "¿Que debo hacer en el proceso de realización de la tesis?",
+        "¿De qué trata la realización de mi tesis?",
+        "Pasos a seguir durante la tesis",
+        "Actividades a realizar en la tesis",
+        "¿Como es el proceso para realizar una tesis?",
+        "¿De que trata el proceso de realizacion de la tesis?",
+        "¿Que actividades componen la evaluacion de la tésis?"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

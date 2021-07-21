@@ -1,0 +1,37 @@
+{
+  "id": "qgoj4y2u9g_qu__es_una_certificaci_n",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "regular"
+    ],
+    "enabled": true,
+    "answers": {
+      "es": [
+        "Las certificaciones son un programa conformado por tres cursos en semestres consecutivos en torno a una competencia en un área de conocimiento distinta a la de la carrera del estudiante que la escoge o en torno al desarrollo de una capacidad en un problema u objeto de estudio que se aborda en diálogo entre distintas disciplinas, las que también deben ser diferentes a la carrera o área de conocimiento del estudiante."
+      ]
+    },
+    "questions": {
+      "es": [
+        "¿Qué es una certificación?",
+        "¿Qué son las certificaciones?",
+        "¿Para que sirven las certificaciones?",
+        "¿De qué me sirve una certificación?",
+        "Importancia de las certificaciones",
+        "Obtener información sobre las certificaciones",
+        "Saber más sobre las certificaciones",
+        "¿En qué consisten las certificaciones?",
+        "Información sobre las certificaciones",
+        "¿Dónde puedo aprender más sobre las certificaciones?",
+        "¿Cuál es la página de las certificaciones?",
+        "¿Que es una certificacion?",
+        "¿Que son las certificaciones?",
+        "¿De que me sirve una certificacion?",
+        "Obtener informacion sobre las certificaciones",
+        "¿Cual es la pagina de las certificaciones?"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

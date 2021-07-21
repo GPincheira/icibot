@@ -1,0 +1,39 @@
+{
+  "name": "__qna__e89n8k6iqc_como_es_el_proceso_de_firma_de_mi_pagar",
+  "contexts": [
+    "global"
+  ],
+  "utterances": {
+    "es": [
+      "¿Cómo es el proceso de firma de mi pagaré?",
+      "¿Qué debo hacer para firmar mi pagaré?",
+      "¿Cómo formalizo los créditos que obtuve este año?",
+      "¿Dónde debo firmar un pagaré?",
+      "¿Cómo valido un pagaré?",
+      "¿Dónde puedo firmar un pagaré?",
+      "Información sobre el proceso de firma de un pagaré",
+      "¿En qué consiste la firma del pagaré?",
+      "¿Cómo firmo mi pagaré?",
+      "Proceso de validación de un pagaré",
+      "¿En que fecha debo firmar el pagaré del fondo solidario?",
+      "¿En qué fecha debo firmar el pagaré del fondo solidario?",
+      "¿Cuándo tengo que firmar el pagaré del fondo solidario?",
+      "¿Como es el proceso de firma de mi pagare?",
+      "¿Donde puedo firmar un pagare?",
+      "¿Cuando tengo que firmar el pagare del fondo solidario?",
+      "¿Que debo hacer para firmar mi pagare?",
+      "¿Como formalizo los créditos que obtuve este año?",
+      "¿Como valido un pagare?",
+      "Proceso de validacion de un pagare",
+      "¿Como descargo un pagare?",
+      "¿Dónde obtengo un pagaré?",
+      "¿Cómo descargo un pagaré?",
+      "¿De que manera puedo obtener un pagaré?",
+      "¿Donde obtengo un pagare?",
+      "¿Cuántos días tengo para firmar ante notario el pagaré del crédito solidario?",
+      "¿Cuantos dias tengo para firmar ante notario un pagaré?",
+      "¿Cuantos días tengo para firmar ante notario el pagare del crédito solidario?"
+    ]
+  },
+  "slots": []
+}

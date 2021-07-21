@@ -1,0 +1,108 @@
+{
+  "version": "0.0.1",
+  "catchAll": {
+    "next": []
+  },
+  "startNode": "check-if-extracted",
+  "skillData": {
+    "retryAttempts": 3,
+    "contentElement": "builtin_text-o7sCuP",
+    "notFoundElement": "builtin_text-Gmm51Y",
+    "turnExpiry": -1,
+    "intent": "indicar-correo",
+    "slotName": "correo",
+    "entities": [
+      "any"
+    ]
+  },
+  "nodes": [
+    {
+      "name": "slot-extract",
+      "onEnter": [
+        "say #!builtin_text-o7sCuP {}"
+      ],
+      "onReceive": [
+        "basic-skills/slot_fill {\"slotName\":\"correo\",\"entities\":\"any\", \"turnExpiry\":-1}"
+      ],
+      "next": [
+        {
+          "condition": "session.slots['correo'] && (temp.valid === undefined || temp.valid == \"true\")",
+          "node": "extracted"
+        },
+        {
+          "condition": "true",
+          "node": "not-extracted"
+        }
+      ],
+      "id": "133661"
+    },
+    {
+      "name": "extracted",
+      "onEnter": [
+        "builtin/setVariable {\"type\":\"temp\",\"name\":\"extracted\",\"value\":\"true\"}"
+      ],
+      "next": [
+        {
+          "condition": "true",
+          "node": "#"
+        }
+      ],
+      "id": "399115"
+    },
+    {
+      "name": "not-extracted",
+      "onEnter": [
+        "basic-skills/slot_not_found {\"retryAttempts\":\"3\"}",
+        "say #!builtin_text-Gmm51Y {}"
+      ],
+      "onReceive": [
+        "basic-skills/slot_fill {\"slotName\":\"correo\",\"entities\":\"any\", \"turnExpiry\":-1}"
+      ],
+      "next": [
+        {
+          "condition": "session.slots['correo'] && (temp.valid === undefined || temp.valid == \"true\")",
+          "node": "extracted"
+        },
+        {
+          "condition": "temp.notExtracted == \"true\"",
+          "node": "#"
+        },
+        {
+          "condition": "true",
+          "node": ""
+        }
+      ],
+      "id": "307010"
+    },
+    {
+      "name": "check-if-extracted",
+      "onEnter": [
+        "basic-skills/slot_update_contexts {\"intentName\":\"indicar-correo\"}"
+      ],
+      "next": [
+        {
+          "condition": "session.slots['correo'] !== undefined",
+          "node": "already-extracted"
+        },
+        {
+          "condition": "true",
+          "node": "slot-extract"
+        }
+      ],
+      "id": "689594"
+    },
+    {
+      "name": "already-extracted",
+      "onEnter": [
+        "builtin/setVariable {\"type\":\"temp\",\"name\":\"alreadyExtracted\",\"value\":\"true\"}"
+      ],
+      "next": [
+        {
+          "condition": "true",
+          "node": "#"
+        }
+      ],
+      "id": "303357"
+    }
+  ]
+}

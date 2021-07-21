@@ -1,0 +1,30 @@
+{
+  "name": "indicar-correo",
+  "utterances": {
+    "es": [
+      "Mi correo es [german_07@hotmail.cl](correo)",
+      "Mi e-mail personal es [estecorreo@gmail.com](correo)",
+      "Tengo este correo institucional [german.pincheira@alu.ucm.cl](correo)",
+      "[gabriel23@outlook.com](correo) es mi correo",
+      "Pueden contactarme a [correo@hotmail.es](correo)",
+      "Tengo este correo electrónico [micorreo@hotmail.com](correo)",
+      "Este es mi correo [leonardo21@gmail.com](correo)",
+      "Mi dirección de correo electrónico es [correo_pedro@gmail.com](correo)",
+      "Correo de la universidad [javiera.toro@alu.ucm.cl](correo)",
+      "Este es mi email [lalala@gmail.com](correo)"
+    ]
+  },
+  "slots": [
+    {
+      "id": "UXlWDRMi3VmrdCYBka23K",
+      "name": "correo",
+      "entities": [
+        "any"
+      ],
+      "color": 1
+    }
+  ],
+  "contexts": [
+    "global"
+  ]
+}

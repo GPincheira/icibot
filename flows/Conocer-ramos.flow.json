@@ -1,0 +1,79 @@
+{
+  "version": "0.0.1",
+  "catchAll": {},
+  "startNode": "choice-9b1d32",
+  "description": "",
+  "nodes": [
+    {
+      "id": "7f38915b8d",
+      "type": "skill-call",
+      "skill": "choice",
+      "name": "choice-9b1d32",
+      "flow": "skills/choice-9b1d32.flow.json",
+      "next": [
+        {
+          "caption": "User picked [compete...]",
+          "condition": "temp['skill-choice-ret-eyzzh2e7dl'] == \"competencias\"",
+          "node": "node-9a36"
+        },
+        {
+          "caption": "User picked [objetiv...]",
+          "condition": "temp['skill-choice-ret-eyzzh2e7dl'] == \"objetivos\"",
+          "node": "node-2749"
+        },
+        {
+          "caption": "On failure",
+          "condition": "true",
+          "node": "node-a9d8"
+        }
+      ],
+      "onEnter": null,
+      "onReceive": null
+    },
+    {
+      "id": "f4ac894e32",
+      "name": "node-9a36",
+      "next": [
+        {
+          "condition": "true",
+          "node": "END"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-B1zIHY"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "28a603f172",
+      "name": "node-2749",
+      "next": [
+        {
+          "condition": "true",
+          "node": "END"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-Drlib3"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "b837cd74ad",
+      "name": "node-a9d8",
+      "next": [
+        {
+          "condition": "true",
+          "node": "choice-9b1d32"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-V7t8Wh"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    }
+  ]
+}

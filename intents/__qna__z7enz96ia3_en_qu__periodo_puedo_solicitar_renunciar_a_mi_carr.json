@@ -1,0 +1,27 @@
+{
+  "name": "__qna__z7enz96ia3_en_qu__periodo_puedo_solicitar_renunciar_a_mi_carr",
+  "contexts": [
+    "global"
+  ],
+  "utterances": {
+    "es": [
+      "¿En qué periodo puedo solicitar renunciar a mi carrera?",
+      "Quiero renunciar a la carrera",
+      "¿Cómo puedo salirme de la carrera?",
+      "¿Cómo renuncio a la carrera?",
+      "Información sobre el proceso de renuncia a la carrera",
+      "Fecha máxima para renunciar a la carrera",
+      "¿Cuál es la fecha límite para renunciar a la carrera?",
+      "¿Puedo renunciar a la carrera?",
+      "Necesito renunciar a la carrera",
+      "¿En que periodo puedo solicitar renunciar a mi carrera?",
+      "¿Como puedo salirme de la carrera?",
+      "Informacion sobre el proceso de renuncia a la carrera",
+      "Fecha maxima para renunciar a la carrera",
+      "¿Cual es la fecha limite para renunciar a la carrera?",
+      "¿Cuál es el plazo para renunciar a la carrera?",
+      "Plazo máximo de renuncia a la carrera"
+    ]
+  },
+  "slots": []
+}

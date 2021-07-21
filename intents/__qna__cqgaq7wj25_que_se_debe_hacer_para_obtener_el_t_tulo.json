@@ -1,0 +1,28 @@
+{
+  "name": "__qna__cqgaq7wj25_que_se_debe_hacer_para_obtener_el_t_tulo",
+  "contexts": [
+    "regular"
+  ],
+  "utterances": {
+    "es": [
+      "¿Qué se debe hacer para obtener el título?",
+      "¿Cómo puedo obtener mi titulo?",
+      "¿Cómo obtengo mi título profesional?",
+      "¿Dónde debo pagar mi título profesional?",
+      "¿Qué debo hacer para titularme?",
+      "¿Como puedo obtener mi título profesional?",
+      "¿Qué pasos debo seguir para titularme?",
+      "Pasos a seguir para titularme",
+      "Pasos a seguir para obtener el título",
+      "¿Dónde debo entrar para conseguir mi título?",
+      "¿Como puedo obtener mi título?",
+      "¿Donde debo pagar mi título profesional?",
+      "¿Que debo hacer para titularme?",
+      "¿Que se debe hacer para obtener el título?",
+      "¿Como obtengo mi titulo profesional?",
+      "¿Donde debo pagar mi titulo profesional?",
+      "¿Donde debo entrar para conseguir mi título?"
+    ]
+  },
+  "slots": []
+}

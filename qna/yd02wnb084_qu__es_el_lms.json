@@ -1,0 +1,38 @@
+{
+  "id": "yd02wnb084_qu__es_el_lms",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "es": [
+        "El LMS es una plataforma a la que puedes acceder con tu RUT y contraseña. En él encontrarás el material que tus profesores comparten en las diferentes asignaturas que estés rindiendo, además de subir allí tus trabajos o realizar pruebas. Su link es https://lms.ucm.cl/"
+      ]
+    },
+    "questions": {
+      "es": [
+        "¿Qué es el LMS?",
+        "¿Para qué sirve el LMS?",
+        "¿Qué puedo encontrar en el lms?",
+        "¿Dónde puedo revisar mis cursos?",
+        "¿Dónde puedo encontrar material de mis ramos?",
+        "¿Dónde puedo encontrar material de mis asignaturas?",
+        "Información sobre el LMS",
+        "Uso del LMS",
+        "Mis cursos en el LMS",
+        "Material de mis ramos en el LMS",
+        "¿Cuál es la ruta del LMS?",
+        "¿Cual es la ruta del LMS?",
+        "¿Donde puedo encontrar material de mis ramos?",
+        "¿Que es el LMS?",
+        "¿Para que sirve el LMS?",
+        "¿Donde puedo revisar mis cursos?",
+        "Informacion sobre el LMS"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

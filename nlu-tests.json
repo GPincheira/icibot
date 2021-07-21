@@ -1,0 +1,70 @@
+[
+  {
+    "id": "1625482141768",
+    "utterance": "Cual es el plazo máximo para inscribir ramos?",
+    "context": "*",
+    "conditions": [
+      [
+        "context",
+        "is",
+        "regular"
+      ],
+      [
+        "intent",
+        "is",
+        "__qna__phdufnof13_c_mo_se_desarrolla_el_proceso_de_inscripci_n_de_ra"
+      ]
+    ]
+  },
+  {
+    "id": "1625482165359",
+    "utterance": "Plazo maximo para la inscripcion de ramos",
+    "context": "*",
+    "conditions": [
+      [
+        "context",
+        "is",
+        "regular"
+      ],
+      [
+        "intent",
+        "is",
+        "__qna__phdufnof13_c_mo_se_desarrolla_el_proceso_de_inscripci_n_de_ra"
+      ]
+    ]
+  },
+  {
+    "id": "1625482212242",
+    "utterance": "Como accedo al portal del alumno?",
+    "context": "*",
+    "conditions": [
+      [
+        "context",
+        "is",
+        "global"
+      ],
+      [
+        "intent",
+        "is",
+        "__qna__dnpqlvwny8_que_es_el_portal_del_alumno"
+      ]
+    ]
+  },
+  {
+    "id": "1625482585544",
+    "utterance": "Cual es la dirección de la universidad?",
+    "context": "*",
+    "conditions": [
+      [
+        "context",
+        "is",
+        "global"
+      ],
+      [
+        "intent",
+        "is",
+        "__qna__39qsxxowoj_cuantas_sedes_tiene_la_universidad"
+      ]
+    ]
+  }
+]

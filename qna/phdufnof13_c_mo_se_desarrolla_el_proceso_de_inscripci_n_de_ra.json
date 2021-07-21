@@ -1,0 +1,43 @@
+{
+  "id": "phdufnof13_c_mo_se_desarrolla_el_proceso_de_inscripci_n_de_ra",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "regular"
+    ],
+    "enabled": true,
+    "answers": {
+      "es": [
+        "Para inscribir ramos debes localizar la opción \"Insc. ramos y certificaciones\" en el apartado de información curricular, o entrando directamente a este link http://www.portalalumnos.ucm.cl/portalal/sistema/sap_inscripcion_ramos/ . Allí debes elegir los ramos que quieras inscribir dentro de la oferta. Para nuestra carrera, la fecha de toma de asignaturas para el segundo semestre es los días 5 y 6 de Agosto."
+      ]
+    },
+    "questions": {
+      "es": [
+        "¿Cómo se desarrolla el proceso de inscripción de ramos?",
+        "¿Como puedo inscribir ramos?",
+        "¿Dónde inscribo ramos?",
+        "¿Cómo realizo la toma de ramos?",
+        "¿Cómo puedo elegir los ramos que daré este semestre?",
+        "Información sobre la inscripción de ramos",
+        "¿Cómo se desarrolla el proceso de inscripción de asignaturas?",
+        "¿Como puedo inscribir asignaturas?",
+        "¿Dónde inscribo asignaturas?",
+        "¿Cómo realizo la toma de asignaturas?",
+        "Periodo de inscripcion de asignaturas",
+        "Periodo de inscripción de asignaturas",
+        "¿En que fecha es la inscripcion de asignaturas?",
+        "¿En qué fecha es la inscripción de ramos?",
+        "¿En que fecha debo inscribir ramos?",
+        "¿Como se desarrolla el proceso de inscripcion de ramos?",
+        "¿Donde inscribo ramos?",
+        "¿Cómo puedo inscribir ramos?",
+        "Informacion sobre la inscripcion de ramos",
+        "¿Como realizo la toma de asignaturas?",
+        "¿Cuándo tengo que inscribir mis ramos?",
+        "¿Cuando debo inscribir mis ramos?"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

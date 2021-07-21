@@ -1,0 +1,38 @@
+{
+  "id": "s2aj3geuzj_en_qu__consiste_la_pastoral_de_la_ucm",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "regular"
+    ],
+    "enabled": true,
+    "answers": {
+      "es": [
+        "La Pastoral Universitaria colabora con la UCM en su misión preocupada de desarrollar y promover su identidad propia. Promueve el carácter católico de la institución y para ello busca aportar en todas las actividades, abriendo espacios para la atención pastoral de los miembros de la comunidad y en particular acompañar el desarrollo espiritual de los que profesan o no, la fe católica"
+      ]
+    },
+    "questions": {
+      "es": [
+        "¿En qué consiste la pastoral de la ucm?",
+        "¿Qué es la pastoral?",
+        "¿Qué hace la pastoral UCM?",
+        "¿Qué se realiza en la pastoral de la universidad?",
+        "¿Qué función cumple la pastoral?",
+        "Función de la pastoral en la universidad",
+        "¿Qué se hace en la pastoral ucm?",
+        "¿Qué se hace en la pastoral de la universidad?",
+        "Funcionamiento de la pastoral",
+        "¿Dónde puedo informarme sobre la pastoral?",
+        "¿Que es la pastoral?",
+        "¿Que funcion cumple la pastoral?",
+        "¿Cuál es el sitio de la pastoral?",
+        "¿Cual es la ruta de la pastoral UCM?",
+        "¿Que hace la pastoral UCM?",
+        "¿En que consiste la pastoral de la ucm?",
+        "¿Donde puedo informarme sobre la pastoral?"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

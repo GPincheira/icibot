@@ -1,0 +1,36 @@
+{
+  "id": "3hqd5cvcgp_me_puedes_dar_alguna_rese_a_sobre_la_carrera",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "es": [
+        "La Carrera de Ingeniería Civil informática (ICI) nace el año académico de 1998, bajo el Decreto de Rectoría N 04/98, y su creación se enmarca en el desarrollo de la institución y de la unidad (Escuela de Ingeniería Civil Informática) que alcanza una madurez mediante un currículo previo de Ingeniería de Ejecución en Computación e Informática (1994-1997) que surgió como consecuencia lógica de la carrera de Técnico Universitario en Programación Computacional que históricamente se venía desarrollando desde 1989."
+      ]
+    },
+    "questions": {
+      "es": [
+        "Me puedes dar alguna reseña sobre la carrera",
+        "¿Dónde puedo ver una reseña de la carrera?",
+        "Reseña de Ingeniería Civil Informática",
+        "Dime algo de historia de la carrera",
+        "¿En qué año comenzó la carrera?",
+        "¿Desde que año se dicta la carrera?",
+        "¿En qué año comenzó a darse la carrera?",
+        "Cuéntame sobre la historia de la carrera",
+        "¿Qué puedes decirme sobre la historia de la carrera?",
+        "¿Qué puedes contarme sobre la historia de nuestra carrera?",
+        "¿En qué año se creó la carrera?",
+        "¿En que año se creo la carrera?",
+        "¿Donde puedo ver una reseña de la carrera?",
+        "¿En quw año comenzo la carrera?",
+        "Cuentame sobre la historia de la carrera"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

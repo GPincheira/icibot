@@ -1,0 +1,35 @@
+{
+  "name": "__qna__39qsxxowoj_cuantas_sedes_tiene_la_universidad",
+  "contexts": [
+    "global"
+  ],
+  "utterances": {
+    "es": [
+      "¿Cuántas sedes tiene la universidad?",
+      "¿Cuáles sedes tiene la UCM?",
+      "¿Qué sedes tiene la UCM?",
+      "Información sobre las sedes de la UCM",
+      "¿Cuántos campus tiene la universidad?",
+      "Cantidad de sedes de la universidad",
+      "¿En cuantas sedes está presente la universidad?",
+      "¿Dónde están las instalaciones de la universidad?",
+      "¿Cuál es la dirección de la universidad?",
+      "Quiero saber donde está ubicada la universidad",
+      "¿Cual es la direccion de la universidad?",
+      "Direccion del campus",
+      "Deseo saber la dirección del campus San Miguel",
+      "¿En que ciudades está la UCM?",
+      "¿En que ciudades encuentro la universidad?",
+      "¿Cuál es la direccion del campus?",
+      "¿Cuál es la ubicación de la Universidad?",
+      "¿Cuantas sedes tiene la universidad?",
+      "¿Que sedes tiene la UCM?",
+      "Informacion sobre las sedes de la UCM",
+      "¿Cuantos campus tiene la universidad?",
+      "¿Donde estan las instalaciones de la universidad?",
+      "¿En qué ciudades está la UCM?",
+      "Dirección del campus"
+    ]
+  },
+  "slots": []
+}

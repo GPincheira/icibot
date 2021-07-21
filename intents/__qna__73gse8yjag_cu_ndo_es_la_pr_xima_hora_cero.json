@@ -1,0 +1,25 @@
+{
+  "name": "__qna__73gse8yjag_cu_ndo_es_la_pr_xima_hora_cero",
+  "contexts": [
+    "regular"
+  ],
+  "utterances": {
+    "es": [
+      "¿Cuándo es la próxima hora cero?",
+      "Fechas de las horas cero",
+      "Información sobre las hora cero",
+      "¿Qué son las hora de cero?",
+      "¿Cuáles son las hora cero?",
+      "Horas cero de este semestre",
+      "Hora cero durante este año",
+      "¿Cuántas horas cero habrán?",
+      "Necesito saber sobre la hora cero",
+      "¿Cuando es la proxima hora cero?",
+      "Informacion sobre las hora cero",
+      "¿Que son las hora de cero?",
+      "¿Cuales son las hora cero?",
+      "¿Cuantas horas cero habran?"
+    ]
+  },
+  "slots": []
+}

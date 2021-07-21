@@ -1,0 +1,38 @@
+{
+  "id": "096vf9zucc_c_mo_puedo_ser_ayudante_de_una_asignatura",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "regular"
+    ],
+    "enabled": true,
+    "answers": {
+      "es": [
+        "Para ser ayudante de una asignatura en el segundo semestre, se debe postular vía correo electrónico de secretaria de escuela entre el 9 y 13 de Agosto. Se publicará en eici.ucm.cl los cupos disponibles donde se buscan ayudantes. "
+      ]
+    },
+    "questions": {
+      "es": [
+        "¿Cómo puedo ser ayudante de una asignatura?",
+        "¿Qué necesito para ser ayudante en una asignatura?",
+        "¿Cómo puedo estar a cargo de una ayudantía?",
+        "Quiero saber como ser ayudante",
+        "¿Cómo se postula para dictar una ayudantía?",
+        "¿Cómo postulo para ser ayudante?",
+        "¿Quién puede ser ayudante?",
+        "¿Cómo estar a cargo de una ayudantía?",
+        "¿Cómo es el proceso para ser ayudante?",
+        "Quisiera ser ayudante de un ramo",
+        "¿Como puedo ser ayudante?",
+        "Me gustaría postular para ser ayudante",
+        "Deseo saber sobre las postulaciones a ayudantías",
+        "¿Quien puede ser ayudante?",
+        "¿Como puedo ser ayudante de una asignatura?",
+        "¿Que necesito para ser ayudante en una asignatura?",
+        "¿Como se postula para dictar una ayudantia?"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

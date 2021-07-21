@@ -1,0 +1,29 @@
+{
+  "name": "__qna__cqqa61d99e_qu__es_un_optativo",
+  "contexts": [
+    "regular"
+  ],
+  "utterances": {
+    "es": [
+      "¿Qué es un optativo?",
+      "¿Qué es un electivo?",
+      "¿Qué optativos puedo tomar?",
+      "¿Para que me sirven los optativos?",
+      "Necesito información sobre los electivos",
+      "¿En qué consisten los optativos?",
+      "¿En qué consisten los electivos?",
+      "¿Qué optativos existen?",
+      "¿Cuál es la oferta de optativos?",
+      "¿Qué ramos optativos puedo inscribir?",
+      "¿Que es un optativo?",
+      "¿Cual es la oferta de optativos?",
+      "Quiero conocer sobre los electivos",
+      "Deseo saber sobre los optativos",
+      "¿Que optativos puedo tomar?",
+      "Información sobre los optativos",
+      "Informacion sobre los optativos",
+      "¿En que consisten los electivos?"
+    ]
+  },
+  "slots": []
+}

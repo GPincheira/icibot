@@ -1,0 +1,141 @@
+{
+  "version": "0.0.1",
+  "catchAll": {
+    "onReceive": [],
+    "next": []
+  },
+  "startNode": "Saludo",
+  "nodes": [
+    {
+      "id": "entry",
+      "name": "Saludo",
+      "next": [
+        {
+          "condition": "true",
+          "node": "Eleccion"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-ckiUtW",
+        "builtin/removeContext {\"contexts\":\"global,egresado,regular\"}"
+      ],
+      "onReceive": null
+    },
+    {
+      "id": "skill-c097f6",
+      "type": "skill-call",
+      "skill": "choice",
+      "name": "Eleccion",
+      "flow": "skills/choice-c097f6.flow.json",
+      "next": [
+        {
+          "caption": "User picked [Externo]",
+          "condition": "temp['skill-choice-ret-p2rsgm5iv3'] == \"Externo\"",
+          "node": "Persona-Externa.flow.json"
+        },
+        {
+          "caption": "User picked [Primero]",
+          "condition": "temp['skill-choice-ret-p2rsgm5iv3'] == \"Primero\"",
+          "node": "node-97c9"
+        },
+        {
+          "caption": "User picked [Segundo]",
+          "condition": "temp['skill-choice-ret-p2rsgm5iv3'] == \"Segundo\"",
+          "node": "node-5e54"
+        },
+        {
+          "caption": "User picked [Tercero]",
+          "condition": "temp['skill-choice-ret-p2rsgm5iv3'] == \"Tercero\"",
+          "node": "node-5e54"
+        },
+        {
+          "caption": "User picked [Cuarto]",
+          "condition": "temp['skill-choice-ret-p2rsgm5iv3'] == \"Cuarto\"",
+          "node": "node-13a3"
+        },
+        {
+          "caption": "User picked [Quinto]",
+          "condition": "temp['skill-choice-ret-p2rsgm5iv3'] == \"Quinto\"",
+          "node": "node-13a3"
+        },
+        {
+          "caption": "User picked [Sexto]",
+          "condition": "temp['skill-choice-ret-p2rsgm5iv3'] == \"Sexto\"",
+          "node": "node-13a3"
+        },
+        {
+          "caption": "User picked [Egresado]",
+          "condition": "temp['skill-choice-ret-p2rsgm5iv3'] == \"Egresado\"",
+          "node": "node-f215"
+        },
+        {
+          "caption": "On failure",
+          "condition": "true",
+          "node": "Saludo"
+        }
+      ],
+      "onEnter": null,
+      "onReceive": null
+    },
+    {
+      "id": "06a446f98e",
+      "name": "node-13a3",
+      "next": [
+        {
+          "condition": "true",
+          "node": "Principal-regular.flow.json"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-kzSesE"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "3e39e5587a",
+      "name": "node-97c9",
+      "next": [
+        {
+          "condition": "true",
+          "node": "node-5e54"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-34bdfF"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "b57210b187",
+      "name": "node-5e54",
+      "next": [
+        {
+          "condition": "true",
+          "node": "Principal-regular.flow.json"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-Zcb48b"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "24eb3a68a3",
+      "name": "node-f215",
+      "next": [
+        {
+          "condition": "true",
+          "node": "Principal-egresado.flow.json"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-rRmIYb"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    }
+  ]
+}

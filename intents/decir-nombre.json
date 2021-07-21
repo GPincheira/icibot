@@ -1,0 +1,30 @@
+{
+  "name": "decir-nombre",
+  "utterances": {
+    "es": [
+      "Mi nombre es [German](nombre)",
+      "Me llamo [Pedro](nombre)",
+      "Me puedes llamar [José](nombre)",
+      "[José](nombre) es mi nombre",
+      "Yo me llamo [Juan](nombre)",
+      "Este es mi nombre [Rodrigo](nombre)",
+      "Me puedes llamar [Camilo](nombre)",
+      "Yo me llamo [Daniel](nombre)",
+      "Mi nombre es [Carolina](nombre)",
+      "Yo soy [Alejandra](nombre)"
+    ]
+  },
+  "slots": [
+    {
+      "id": "VOdu0ONJkoIieD8KLodMB",
+      "name": "nombre",
+      "entities": [
+        "any"
+      ],
+      "color": 1
+    }
+  ],
+  "contexts": [
+    "global"
+  ]
+}

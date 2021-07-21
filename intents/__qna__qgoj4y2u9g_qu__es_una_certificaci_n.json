@@ -1,0 +1,27 @@
+{
+  "name": "__qna__qgoj4y2u9g_qu__es_una_certificaci_n",
+  "contexts": [
+    "regular"
+  ],
+  "utterances": {
+    "es": [
+      "¿Qué es una certificación?",
+      "¿Qué son las certificaciones?",
+      "¿Para que sirven las certificaciones?",
+      "¿De qué me sirve una certificación?",
+      "Importancia de las certificaciones",
+      "Obtener información sobre las certificaciones",
+      "Saber más sobre las certificaciones",
+      "¿En qué consisten las certificaciones?",
+      "Información sobre las certificaciones",
+      "¿Dónde puedo aprender más sobre las certificaciones?",
+      "¿Cuál es la página de las certificaciones?",
+      "¿Que es una certificacion?",
+      "¿Que son las certificaciones?",
+      "¿De que me sirve una certificacion?",
+      "Obtener informacion sobre las certificaciones",
+      "¿Cual es la pagina de las certificaciones?"
+    ]
+  },
+  "slots": []
+}

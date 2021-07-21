@@ -1,0 +1,24 @@
+{
+  "name": "__qna__5b82ejxpnw_qu__plataformas_digitales_tiene_la_universidad_par",
+  "contexts": [
+    "global"
+  ],
+  "utterances": {
+    "es": [
+      "¿Qué plataformas digitales tiene la universidad para sus alumnos?",
+      "¿A qué plataformas digitales puedo acceder?",
+      "Plataformas a las que puedo acceder como alumno",
+      "¿Qué plataformas digitales puedo utilizar?",
+      "Plataformas digitales a las que puedo acceder",
+      "Plataformas digitales para los estudiantes",
+      "¿Cuáles son las plataformas que puedo utilizar?",
+      "¿Cuáles son las plataformas a las que puedo acceder?",
+      "¿A que plataformas digitales tengo acceso?",
+      "¿Qué plataformas digitales existen en la universidad?",
+      "¿Que plataformas digitales tiene la universidad para sus alumnos?",
+      "¿Cuales son las plataformas a las que puedo acceder?",
+      "¿Que plataformas digitales puedo utilizar?"
+    ]
+  },
+  "slots": []
+}
