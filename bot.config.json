@@ -23,16 +23,12 @@
     "outgoingMiddleware": [],
     "contentTypes": [
       "builtin_action-button",
-      "builtin_audio",
       "builtin_card",
       "builtin_carousel",
       "builtin_image",
       "builtin_single-choice",
       "builtin_text",
-      "builtin_video",
-      "dropdown",
-      "builtin_file",
-      "builtin_location"
+      "dropdown"
     ]
   },
   "dialog": {
