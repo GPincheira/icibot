@@ -1,6 +1,9 @@
 {
   "version": "0.0.1",
-  "catchAll": {},
+  "catchAll": {
+    "onReceive": [],
+    "next": []
+  },
   "startNode": "entry",
   "description": "",
   "nodes": [
@@ -23,12 +26,7 @@
     {
       "id": "4b882fb339",
       "name": "node-f064",
-      "next": [
-        {
-          "condition": "true",
-          "node": "END"
-        }
-      ],
+      "next": [],
       "onEnter": [
         "say #!builtin_text-z6ktmC"
       ],

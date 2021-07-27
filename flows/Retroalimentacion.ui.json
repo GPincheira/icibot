@@ -3,24 +3,112 @@
     {
       "id": "b8df4b26fe",
       "position": {
-        "x": 40,
-        "y": 95
+        "x": 35,
+        "y": 135
+      }
+    },
+    {
+      "id": "skill-e3c991",
+      "position": {
+        "x": 280,
+        "y": 195
+      }
+    },
+    {
+      "id": "3a3f840609",
+      "position": {
+        "x": 580,
+        "y": 160
+      }
+    },
+    {
+      "id": "bda4122f4d",
+      "position": {
+        "x": 580,
+        "y": 280
+      }
+    },
+    {
+      "id": "6c645e08f5",
+      "position": {
+        "x": 295,
+        "y": 355
       }
     }
   ],
   "links": [
     {
-      "source": "b8df4b26fe",
+      "source": "6c645e08f5",
       "sourcePort": "out0",
-      "target": "6e80ba2a8d",
+      "target": "skill-e3c991",
       "points": [
         {
-          "x": 240,
-          "y": 139
+          "x": 495,
+          "y": 453
         },
         {
-          "x": 213,
-          "y": 273
+          "x": 281,
+          "y": 213
+        }
+      ]
+    },
+    {
+      "source": "b8df4b26fe",
+      "sourcePort": "out0",
+      "target": "skill-e3c991",
+      "points": [
+        {
+          "x": 235,
+          "y": 233
+        },
+        {
+          "x": 281,
+          "y": 213
+        }
+      ]
+    },
+    {
+      "source": "skill-e3c991",
+      "sourcePort": "out0",
+      "target": "3a3f840609",
+      "points": [
+        {
+          "x": 480,
+          "y": 239
+        },
+        {
+          "x": 581,
+          "y": 178
+        }
+      ]
+    },
+    {
+      "source": "skill-e3c991",
+      "sourcePort": "out2",
+      "target": "6c645e08f5",
+      "points": [
+        {
+          "x": 480,
+          "y": 299
+        },
+        {
+          "x": 296,
+          "y": 373
+        }
+      ]
+    },
+    {
+      "source": "skill-e3c991",
+      "sourcePort": "out1",
+      "target": "bda4122f4d",
+      "points": [
+        {
+          "x": 480,
+          "y": 269
+        },
+        {
+          "x": 581,
+          "y": 298
         }
       ]
     }

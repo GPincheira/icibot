@@ -7,14 +7,77 @@
     {
       "id": "b8df4b26fe",
       "name": "entry",
-      "onEnter": [],
+      "onEnter": [
+        "say #!builtin_text-Yiyc6F"
+      ],
       "onReceive": null,
       "next": [
         {
           "condition": "true",
-          "node": "node-c38f"
+          "node": "choice-e3c991"
         }
       ],
+      "type": "standard"
+    },
+    {
+      "id": "skill-e3c991",
+      "type": "skill-call",
+      "skill": "choice",
+      "name": "choice-e3c991",
+      "flow": "skills/choice-e3c991.flow.json",
+      "next": [
+        {
+          "caption": "User picked [Si]",
+          "condition": "temp['skill-choice-ret-fvussdpo3i'] == \"Si\"",
+          "node": "node-6935"
+        },
+        {
+          "caption": "User picked [No]",
+          "condition": "temp['skill-choice-ret-fvussdpo3i'] == \"No\"",
+          "node": "node-f57e"
+        },
+        {
+          "caption": "On failure",
+          "condition": "true",
+          "node": "node-94bb"
+        }
+      ],
+      "onEnter": null,
+      "onReceive": null
+    },
+    {
+      "id": "3a3f840609",
+      "name": "node-6935",
+      "next": [],
+      "onEnter": [
+        "say #!builtin_text-Fz_LQy"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "bda4122f4d",
+      "name": "node-f57e",
+      "next": [],
+      "onEnter": [
+        "say #!builtin_text-TpbsYJ"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "6c645e08f5",
+      "name": "node-94bb",
+      "next": [
+        {
+          "condition": "true",
+          "node": "choice-e3c991"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-V7t8Wh"
+      ],
+      "onReceive": null,
       "type": "standard"
     }
   ]

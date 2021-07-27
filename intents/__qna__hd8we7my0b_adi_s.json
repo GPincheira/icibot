@@ -1,0 +1,15 @@
+{
+  "name": "__qna__hd8we7my0b_adi_s",
+  "contexts": [
+    "global"
+  ],
+  "utterances": {
+    "es": [
+      "Adiós",
+      "Chao",
+      "Fue un gusto",
+      "Eso es todo"
+    ]
+  },
+  "slots": []
+}

@@ -43,7 +43,7 @@
       ]
     },
     "config": {
-      "nbMaxRetries": 3,
+      "nbMaxRetries": 0,
       "repeatChoicesOnInvalid": false,
       "variableName": ""
     }
@@ -60,12 +60,12 @@
           "node": "parse"
         }
       ],
-      "id": "717465"
+      "id": "345036"
     },
     {
       "name": "parse",
       "onReceive": [
-        "basic-skills/choice_parse_answer {\"randomId\":\"p2rsgm5iv3\",\"contentId\":\"builtin_single-choice-MD0U2l\",\"invalidContentId\":\"\",\"keywords\":{\"Externo\":[\"Externo\",\"No soy estudiante\"],\"Primero\":[\"Primero\",\"Primer año\"],\"Segundo\":[\"Segundo\",\"Segundo año\"],\"Tercero\":[\"Tercero\",\"Tercer año\"],\"Cuarto\":[\"Cuarto\",\"Cuarto año\"],\"Quinto\":[\"Quinto\",\"Quinto año\"],\"Sexto\":[\"Sexto\",\"Sexto año o superiores\"],\"Egresado\":[\"Egresado\",\"Ya egresé\"]},\"config\":{\"nbMaxRetries\":3,\"repeatChoicesOnInvalid\":false,\"variableName\":\"\"}}"
+        "basic-skills/choice_parse_answer {\"randomId\":\"p2rsgm5iv3\",\"contentId\":\"builtin_single-choice-MD0U2l\",\"invalidContentId\":\"\",\"keywords\":{\"Externo\":[\"Externo\",\"No soy estudiante\"],\"Primero\":[\"Primero\",\"Primer año\"],\"Segundo\":[\"Segundo\",\"Segundo año\"],\"Tercero\":[\"Tercero\",\"Tercer año\"],\"Cuarto\":[\"Cuarto\",\"Cuarto año\"],\"Quinto\":[\"Quinto\",\"Quinto año\"],\"Sexto\":[\"Sexto\",\"Sexto año o superiores\"],\"Egresado\":[\"Egresado\",\"Ya egresé\"]},\"config\":{\"nbMaxRetries\":0,\"repeatChoicesOnInvalid\":false,\"variableName\":\"\"}}"
       ],
       "next": [
         {
@@ -87,7 +87,7 @@
         }
       ],
       "onEnter": [],
-      "id": "955584"
+      "id": "209809"
     },
     {
       "name": "invalid",
@@ -96,7 +96,7 @@
       ],
       "next": [
         {
-          "condition": "Number(temp['skill-choice-invalid-count-p2rsgm5iv3']) > Number(3)",
+          "condition": "Number(temp['skill-choice-invalid-count-p2rsgm5iv3']) > Number(0)",
           "node": "#"
         },
         {
@@ -104,7 +104,7 @@
           "node": "sorry"
         }
       ],
-      "id": "809197"
+      "id": "072434"
     },
     {
       "name": "sorry",
@@ -115,7 +115,7 @@
           "node": "parse"
         }
       ],
-      "id": "141613"
+      "id": "395436"
     }
   ]
 }

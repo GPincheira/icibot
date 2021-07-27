@@ -1,0 +1,23 @@
+{
+  "id": "hd8we7my0b_adi_s",
+  "data": {
+    "action": "redirect",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "es": []
+    },
+    "questions": {
+      "es": [
+        "Adiós",
+        "Chao",
+        "Fue un gusto",
+        "Eso es todo"
+      ]
+    },
+    "redirectFlow": "Retroalimentacion.flow.json",
+    "redirectNode": "entry"
+  }
+}

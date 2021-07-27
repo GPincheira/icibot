@@ -23,7 +23,7 @@
       ]
     },
     "config": {
-      "nbMaxRetries": 3,
+      "nbMaxRetries": 0,
       "repeatChoicesOnInvalid": false,
       "variableName": ""
     }
@@ -40,12 +40,12 @@
           "node": "parse"
         }
       ],
-      "id": "334589"
+      "id": "517163"
     },
     {
       "name": "parse",
       "onReceive": [
-        "basic-skills/choice_parse_answer {\"randomId\":\"c1d60qt091\",\"contentId\":\"builtin_single-choice-V80qm-\",\"invalidContentId\":\"\",\"keywords\":{\"CAE\":[\"CAE\",\"Credito con Aval del Estado (CAE)\"],\"FSCU\":[\"FSCU\",\"Fondo Solidario de Educación Superior (FSCU)\"],\"Internos\":[\"Internos\",\"Créditos internos UCM\"]},\"config\":{\"nbMaxRetries\":3,\"repeatChoicesOnInvalid\":false,\"variableName\":\"\"}}"
+        "basic-skills/choice_parse_answer {\"randomId\":\"c1d60qt091\",\"contentId\":\"builtin_single-choice-V80qm-\",\"invalidContentId\":\"\",\"keywords\":{\"CAE\":[\"CAE\",\"Credito con Aval del Estado (CAE)\"],\"FSCU\":[\"FSCU\",\"Fondo Solidario de Educación Superior (FSCU)\"],\"Internos\":[\"Internos\",\"Créditos internos UCM\"]},\"config\":{\"nbMaxRetries\":0,\"repeatChoicesOnInvalid\":false,\"variableName\":\"\"}}"
       ],
       "next": [
         {
@@ -67,7 +67,7 @@
         }
       ],
       "onEnter": [],
-      "id": "544680"
+      "id": "827792"
     },
     {
       "name": "invalid",
@@ -76,7 +76,7 @@
       ],
       "next": [
         {
-          "condition": "Number(temp['skill-choice-invalid-count-c1d60qt091']) > Number(3)",
+          "condition": "Number(temp['skill-choice-invalid-count-c1d60qt091']) > Number(0)",
           "node": "#"
         },
         {
@@ -84,7 +84,7 @@
           "node": "sorry"
         }
       ],
-      "id": "483484"
+      "id": "248248"
     },
     {
       "name": "sorry",
@@ -95,7 +95,7 @@
           "node": "parse"
         }
       ],
-      "id": "665183"
+      "id": "789850"
     }
   ]
 }

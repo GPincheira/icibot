@@ -71,7 +71,7 @@
         {
           "caption": "On failure",
           "condition": "true",
-          "node": "Saludo"
+          "node": "node-c030"
         }
       ],
       "onEnter": null,
@@ -133,6 +133,21 @@
       ],
       "onEnter": [
         "say #!builtin_text-rRmIYb"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "1589163567",
+      "name": "node-c030",
+      "next": [
+        {
+          "condition": "true",
+          "node": "Eleccion"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-V7t8Wh"
       ],
       "onReceive": null,
       "type": "standard"

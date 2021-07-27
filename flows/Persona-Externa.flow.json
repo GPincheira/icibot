@@ -127,7 +127,7 @@
       "next": [
         {
           "condition": "true",
-          "node": "Despedida.flow.json"
+          "node": ""
         }
       ],
       "onEnter": [
@@ -151,7 +151,7 @@
         {
           "caption": "User picked [No]",
           "condition": "temp['skill-choice-ret-u8ecyv8gw3'] == \"No\"",
-          "node": "Despedida.flow.json"
+          "node": ""
         },
         {
           "caption": "On failure",

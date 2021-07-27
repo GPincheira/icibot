@@ -565,5 +565,38 @@
     "createdBy": "admin",
     "createdOn": "2021-07-05T08:35:54.317Z",
     "modifiedOn": "2021-07-05T08:35:54.317Z"
+  },
+  {
+    "id": "builtin_text-Yiyc6F",
+    "formData": {
+      "markdown$es": true,
+      "typing$es": true,
+      "text$es": "Fue un gusto poder interactuar contigo."
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-07-27T05:46:03.102Z",
+    "modifiedOn": "2021-07-27T05:46:03.102Z"
+  },
+  {
+    "id": "builtin_text-Fz_LQy",
+    "formData": {
+      "markdown$es": true,
+      "typing$es": true,
+      "text$es": "Excelente. De todos modos si deseas hacer algún comentario sobre ICIBot, puedes hacerlo al siguiente link: "
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-07-27T05:54:15.487Z",
+    "modifiedOn": "2021-07-27T05:54:15.487Z"
+  },
+  {
+    "id": "builtin_text-TpbsYJ",
+    "formData": {
+      "markdown$es": true,
+      "typing$es": true,
+      "text$es": "Si deseas que aprenda nuevas preguntas, puedes sugerirlo al entrando al siguiente link:"
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-07-27T05:55:02.582Z",
+    "modifiedOn": "2021-07-27T05:55:02.582Z"
   }
 ]

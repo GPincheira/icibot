@@ -353,5 +353,27 @@
     "createdBy": "admin",
     "createdOn": "2021-06-11T09:26:47.495Z",
     "modifiedOn": "2021-06-11T09:26:47.495Z"
+  },
+  {
+    "id": "builtin_single-choice-7D8Sjj",
+    "formData": {
+      "choices$es": [
+        {
+          "title": "Sí, encontré lo que necesitaba",
+          "value": "Si"
+        },
+        {
+          "title": "No pude resolver mis dudas",
+          "value": "No"
+        }
+      ],
+      "markdown$es": true,
+      "disableFreeText$es": false,
+      "typing$es": true,
+      "text$es": "¿Esta experiencia fue de utilidad para tí?"
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-07-27T05:47:06.385Z",
+    "modifiedOn": "2021-07-27T05:47:06.385Z"
   }
 ]
